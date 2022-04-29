@@ -1,0 +1,377 @@
+Week,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee
+1,Fri,21/08/2020,19:00 (18:00),Bordeaux,0.4,0â€“0,0.3,Nantes,,Stade Matmut-Atlantique,Benoît Bastien
+1,Sat,22/08/2020,17:00 (16:00),Dijon,0.5,0â€“1,2.1,Angers,, Stade Gaston Gérard,Eric Wattellier
+1,Sun,23/08/2020,13:00 (12:00),Monaco,2,2â€“2,1.3,Reims,,Stade Louis II., François Letexier
+1,Sun,23/08/2020,15:00 (14:00),Nîmes,1.1,4â€“0,0.4,Brest,,Stade des Costières,Jérémie Pignard
+1,Sun,23/08/2020,15:00 (14:00),Lorient,2.8,3â€“1,0.5,Strasbourg,,Stade Yves Allainmat - Le Moustoir,Johan Hamel
+1,Sun,23/08/2020,17:00 (16:00),Nice,0.2,2â€“1,2.5,Lens,,Stade de Nice, Jérôme Miguelgorry
+2,Fri,28/08/2020,21:00 (20:00),Lyon,4.8,4â€“1,0.4,Dijon,,Groupama Stadium, Benoît Millot
+2,Sat,29/08/2020,17:00 (16:00),Rennes,1.9,2â€“1,0.5,Montpellier,,Roazhon Park,Willy Delajod
+2,Sat,29/08/2020,21:00 (20:00),Strasbourg,0.2,0â€“2,1.4,Nice,,Stade de la Meinau,Jérôme Brisard
+2,Sun,30/08/2020,13:00 (12:00),Reims,0.2,0â€“1,1.1,Lille,,Stade Auguste-Delaune II,Stéphanie Frappart
+2,Sun,30/08/2020,15:00 (14:00),Saint-Étienne,1.3,2â€“0,0.2,Lorient,,Stade Geoffroy-Guichard,Florent Batta
+2,Sun,30/08/2020,15:00 (14:00),Nantes,2.3,2â€“1,1.4,Nîmes,,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem
+2,Sun,30/08/2020,15:00 (14:00),Angers,0.9,0â€“2,2.1,Bordeaux,,Stade Raymond Kopa,Karim Abed
+2,Sun,30/08/2020,21:00 (20:00),Brest,2.7,2â€“3,1.4,Marseille,,Stade Francis-Le Blé,Amaury Delerue
+2,Thu,10/09/2020,21:00 (20:00),Lens,1.4,1â€“0,0.6,Paris S-G,,Stade Bollaert-Delelis,Hakim Ben El Hadj Salem
+3,Fri,11/09/2020,21:00 (20:00),Bordeaux,0.2,0â€“0,2.2,Lyon,,Stade Matmut-Atlantique,Ruddy Buquet
+3,Sat,12/09/2020,17:00 (16:00),Montpellier,1.6,3â€“1,0.4,Nice,,Stade de la Mosson,Antony Gautier
+3,Sat,12/09/2020,21:00 (20:00),Saint-Étienne,1.7,2â€“0,1.2,Strasbourg,,Stade Geoffroy-Guichard,Eric Wattellier
+3,Sun,13/09/2020,13:00 (12:00),Lille,1.5,1â€“0,0.7,Metz,,Stade Pierre-Mauroy,Jérémie Pignard
+3,Sun,13/09/2020,15:00 (14:00),Lorient,1.3,2â€“3,2.1,Lens,,Stade Yves Allainmat - Le Moustoir, Aurélien Petit
+3,Sun,13/09/2020,15:00 (14:00),Angers,2,1â€“0,0.3,Reims,,Stade Raymond Kopa,Benoît Bastien
+3,Sun,13/09/2020,15:00 (14:00),Nîmes,1.4,2â€“4,1.9,Rennes,,Stade des Costières,Mikael Lesage
+3,Sun,13/09/2020,15:00 (14:00),Dijon,0.4,0â€“2,2,Brest,, Stade Gaston Gérard,Bastien Dechepy
+3,Sun,13/09/2020,17:00 (16:00),Monaco,2,2â€“1,0.6,Nantes,,Stade Louis II.,Clément Turpin
+3,Sun,13/09/2020,21:00 (20:00),Paris S-G,1.7,0â€“1,0.5,Marseille,,Parc des Princes,Jérôme Brisard
+1,Tue,15/09/2020,21:00 (20:00),Montpellier,1.6,2â€“1,1.6,Lyon,,Stade de la Mosson, François Letexier
+1,Wed,16/09/2020,21:00 (20:00),Paris S-G,2.3,1â€“0,1.1,Metz,,Parc des Princes,Mikael Lesage
+1,Thu,17/09/2020,21:00 (20:00),Marseille,2.3,0â€“2,1.5,Saint-Étienne,,Orange Vélodrome,Ruddy Buquet
+4,Sat,19/09/2020,17:00 (16:00),Lens,3.5,2â€“1,0.4,Bordeaux,,Stade Bollaert-Delelis, Benoît Millot
+4,Sat,19/09/2020,21:00 (20:00),Rennes,1.3,2â€“1,1.3,Monaco,,Roazhon Park, Jérôme Miguelgorry
+4,Sun,20/09/2020,13:00 (12:00),Nice,1,0â€“3,3.2,Paris S-G,,Stade de Nice,Benoît Bastien
+4,Sun,20/09/2020,15:00 (14:00),Montpellier,1.3,4â€“1,1,Angers,,Stade de la Mosson,Stéphanie Frappart
+4,Sun,20/09/2020,15:00 (14:00),Strasbourg,2,1â€“0,0.5,Dijon,,Stade de la Meinau,Florent Batta
+4,Sun,20/09/2020,15:00 (14:00),Metz,0.9,2â€“1,1.4,Reims,,Stade Saint-Symphorien,Johan Hamel
+4,Sun,20/09/2020,15:00 (14:00),Brest,1.4,3â€“2,1.6,Lorient,,Stade Francis-Le Blé,Karim Abed
+4,Sun,20/09/2020,17:00 (16:00),Nantes,1.9,2â€“2,1.1,Saint-Étienne,,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier
+4,Sun,20/09/2020,21:00 (20:00),Marseille,0.7,1â€“1,1.7,Lille,,Orange Vélodrome,Hakim Ben El Hadj Salem
+5,Fri,25/09/2020,21:00 (20:00),Lille,2,2â€“0,0.9,Nantes,,Stade Pierre-Mauroy,Willy Delajod
+5,Sat,26/09/2020,17:00 (16:00),Saint-Étienne,0.4,0â€“3,0.9,Rennes,,Stade Geoffroy-Guichard,Benoît Bastien
+5,Sat,26/09/2020,21:00 (20:00),Marseille,1.3,1â€“1,1.1,Metz,,Orange Vélodrome,Eric Wattellier
+5,Sun,27/09/2020,13:00 (12:00),Bordeaux,1,0â€“0,1,Nice,,Stade Matmut-Atlantique, François Letexier
+5,Sun,27/09/2020,15:00 (14:00),Monaco,1.5,3â€“2,1.4,Strasbourg,,Stade Louis II.,Jérémie Pignard
+5,Sun,27/09/2020,15:00 (14:00),Angers,0.8,3â€“2,3.1,Brest,,Stade Raymond Kopa,Jeremy Stinat
+5,Sun,27/09/2020,15:00 (14:00),Dijon,1.5,2â€“2,2.4,Montpellier,, Stade Gaston Gérard, Aurélien Petit
+5,Sun,27/09/2020,15:00 (14:00),Nîmes,0.6,1â€“1,1.4,Lens,,Stade des Costières,Franck Schneider
+5,Sun,27/09/2020,17:00 (16:00),Lorient,0.2,1â€“1,0.8,Lyon,,Stade Yves Allainmat - Le Moustoir,Clément Turpin
+5,Sun,27/09/2020,21:00 (20:00),Reims,0.2,0â€“2,4.4,Paris S-G,,Stade Auguste-Delaune II,Ruddy Buquet
+6,Fri,02/10/2020,21:00 (20:00),Paris S-G,2.1,6â€“1,0.9,Angers,,Parc des Princes,Franck Schneider
+6,Sat,03/10/2020,17:00 (16:00),Lens,1.9,2â€“0,0.1,Saint-Étienne,,Stade Bollaert-Delelis,Bastien Dechepy
+6,Sat,03/10/2020,21:00 (20:00),Nice,2.1,2â€“1,1.3,Nantes,,Stade de Nice,Jérôme Brisard
+6,Sun,04/10/2020,13:00 (12:00),Montpellier,0.7,0â€“1,0.5,Nîmes,,Stade de la Mosson, Benoît Millot
+6,Sun,04/10/2020,15:00 (14:00),Bordeaux,1.5,3â€“0,0.3,Dijon,,Stade Matmut-Atlantique,Antony Gautier
+6,Sun,04/10/2020,15:00 (14:00),Brest,1,1â€“0,1.1,Monaco,,Stade Francis-Le Blé,Johan Hamel
+6,Sun,04/10/2020,15:00 (14:00),Metz,1.7,3â€“1,0.8,Lorient,,Stade Saint-Symphorien, Jérôme Miguelgorry
+6,Sun,04/10/2020,15:00 (14:00),Strasbourg,1.7,0â€“3,1.9,Lille,,Stade de la Meinau,Mikael Lesage
+6,Sun,04/10/2020,17:00 (16:00),Rennes,2,2â€“2,1.2,Reims,,Roazhon Park,Florent Batta
+6,Sun,04/10/2020,21:00 (20:00),Lyon,3.2,1â€“1,0.2,Marseille,,Groupama Stadium,Stéphanie Frappart
+7,Fri,16/10/2020,19:00 (18:00),Dijon,0.9,1â€“1,1,Rennes,, Stade Gaston Gérard,Bastien Dechepy
+7,Fri,16/10/2020,21:00 (20:00),Nîmes,0.1,0â€“4,4.3,Paris S-G,,Stade des Costières,Clément Turpin
+7,Sat,17/10/2020,17:00 (16:00),Reims,0.4,1â€“3,2.6,Lorient,,Stade Auguste-Delaune II,Mikael Lesage
+7,Sat,17/10/2020,21:00 (20:00),Marseille,1,3â€“1,0.6,Bordeaux,,Orange Vélodrome,Franck Schneider
+7,Sun,18/10/2020,13:00 (12:00),Strasbourg,2.1,2â€“3,3.9,Lyon,,Stade de la Meinau,Ruddy Buquet
+7,Sun,18/10/2020,15:00 (14:00),Angers,1.1,1â€“1,1.2,Metz,,Stade Raymond Kopa, Aurélien Petit
+7,Sun,18/10/2020,15:00 (14:00),Nantes,1.8,3â€“1,1.1,Brest,,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard
+7,Sun,18/10/2020,15:00 (14:00),Monaco,2.1,1â€“1,0.2,Montpellier,,Stade Louis II.,Hakim Ben El Hadj Salem
+7,Sun,18/10/2020,17:00 (16:00),Saint-Étienne,0.8,1â€“3,2.3,Nice,,Stade Geoffroy-Guichard,Amaury Delerue
+7,Sun,18/10/2020,21:00 (20:00),Lille,2.6,4â€“0,0.4,Lens,,Stade Pierre-Mauroy, François Letexier
+8,Fri,23/10/2020,21:00 (20:00),Rennes,1,1â€“2,1.4,Angers,,Roazhon Park,Jérémie Pignard
+8,Sat,24/10/2020,17:00 (16:00),Lorient,0.5,0â€“1,1.3,Marseille,,Stade Yves Allainmat - Le Moustoir,Benoît Bastien
+8,Sat,24/10/2020,21:00 (20:00),Paris S-G,4.6,4â€“0,1.7,Dijon,,Parc des Princes,Johan Hamel
+8,Sun,25/10/2020,15:00 (14:00),Montpellier,0.2,0â€“4,4,Reims,,Stade de la Mosson,Willy Delajod
+8,Sun,25/10/2020,15:00 (14:00),Brest,0.9,0â€“3,1.1,Strasbourg,,Stade Francis-Le Blé, Jérôme Miguelgorry
+8,Sun,25/10/2020,15:00 (14:00),Bordeaux,2.3,2â€“0,0.9,Nîmes,,Stade Matmut-Atlantique,Bastien Dechepy
+8,Sun,25/10/2020,17:00 (16:00),Nice,1,1â€“1,0.5,Lille,,Stade de Nice,Franck Schneider
+8,Sun,25/10/2020,21:00 (20:00),Lyon,3.2,4â€“1,1.9,Monaco,,Groupama Stadium,Jérôme Brisard
+9,Sat,31/10/2020,17:00 (16:00),Rennes,1.5,2â€“1,0.7,Brest,,Roazhon Park,Stéphanie Frappart
+9,Sat,31/10/2020,21:00 (20:00),Nantes,1.7,0â€“3,2.1,Paris S-G,,Stade de la Beaujoire - Louis Fonteneau,Hakim Ben El Hadj Salem
+9,Sun,01/11/2020,13:00 (12:00),Saint-Étienne,0.7,0â€“1,0.6,Montpellier,,Stade Geoffroy-Guichard, Jérôme Miguelgorry
+9,Sun,01/11/2020,15:00 (14:00),Angers,0.4,0â€“3,2.3,Nice,,Stade Raymond Kopa,Jeremy Stinat
+9,Sun,01/11/2020,15:00 (14:00),Dijon,0.4,0â€“0,1.1,Lorient,, Stade Gaston Gérard, Aurélien Petit
+9,Sun,01/11/2020,15:00 (14:00),Reims,0.7,2â€“1,1.9,Strasbourg,,Stade Auguste-Delaune II,Eric Wattellier
+9,Sun,01/11/2020,15:00 (14:00),Nîmes,1.1,0â€“1,1.5,Metz,,Stade des Costières,Amaury Delerue
+9,Sun,01/11/2020,17:00 (16:00),Monaco,3,4â€“0,0.3,Bordeaux,,Stade Louis II.,Ruddy Buquet
+9,Sun,01/11/2020,21:00 (20:00),Lille,0.5,1â€“1,0.8,Lyon,,Stade Pierre-Mauroy,Mikael Lesage
+10,Fri,06/11/2020,21:00 (20:00),Strasbourg,0.3,0â€“1,0.1,Marseille,,Stade de la Meinau,Johan Hamel
+10,Sat,07/11/2020,17:00 (16:00),Bordeaux,0.6,0â€“2,1.5,Montpellier,,Stade Matmut-Atlantique,Antony Gautier
+10,Sat,07/11/2020,21:00 (20:00),Paris S-G,0.9,3â€“0,1.1,Rennes,,Parc des Princes,Benoît Bastien
+10,Sun,08/11/2020,13:00 (12:00),Brest,1.2,3â€“2,2.4,Lille,,Stade Francis-Le Blé,Florent Batta
+10,Sun,08/11/2020,15:00 (14:00),Metz,2.1,1â€“1,2.3,Dijon,,Stade Saint-Symphorien,Willy Delajod
+10,Sun,08/11/2020,15:00 (14:00),Lorient,1.8,0â€“2,1.7,Nantes,,Stade Yves Allainmat - Le Moustoir,Stéphanie Frappart
+10,Sun,08/11/2020,15:00 (14:00),Nîmes,1.5,1â€“5,3.2,Angers,,Stade des Costières,Franck Schneider
+10,Sun,08/11/2020,15:00 (14:00),Lens,1.5,4â€“4,1.4,Reims,,Stade Bollaert-Delelis, Thomas Léonard
+10,Sun,08/11/2020,17:00 (16:00),Nice,0.7,1â€“2,1.5,Monaco,,Stade de Nice,Karim Abed
+10,Sun,08/11/2020,21:00 (20:00),Lyon,2.5,2â€“1,1.7,Saint-Étienne,,Groupama Stadium, François Letexier
+11,Fri,20/11/2020,19:00 (18:00),Rennes,1.9,0â€“1,0.7,Bordeaux,,Roazhon Park,Karim Abed
+11,Fri,20/11/2020,21:00 (20:00),Monaco,3.2,3â€“2,1.7,Paris S-G,,Stade Louis II.,Clément Turpin
+11,Sat,21/11/2020,17:00 (16:00),Brest,0.9,4â€“1,1.3,Saint-Étienne,,Stade Francis-Le Blé, Thomas Léonard
+11,Sun,22/11/2020,13:00 (12:00),Nantes,1.2,1â€“1,1.6,Metz,,Stade de la Beaujoire - Louis Fonteneau, Benoît Millot
+11,Sun,22/11/2020,15:00 (14:00),Reims,1,0â€“1,1.1,Nîmes,,Stade Auguste-Delaune II,Jeremy Stinat
+11,Sun,22/11/2020,15:00 (14:00),Dijon,0.6,0â€“1,1.5,Lens,, Stade Gaston Gérard,Eric Wattellier
+11,Sun,22/11/2020,15:00 (14:00),Montpellier,1.7,4â€“3,3.4,Strasbourg,,Stade de la Mosson,Jérôme Brisard
+11,Sun,22/11/2020,17:00 (16:00),Angers,0.9,0â€“1,1,Lyon,,Stade Raymond Kopa,Amaury Delerue
+11,Sun,22/11/2020,21:00 (20:00),Lille,4.2,4â€“0,0.7,Lorient,,Stade Pierre-Mauroy,Willy Delajod
+8,Wed,25/11/2020,19:00 (18:00),Lens,0.7,1â€“1,2,Nantes,,Stade Bollaert-Delelis,Florent Batta
+12,Fri,27/11/2020,21:00 (20:00),Strasbourg,0.6,1â€“1,1.9,Rennes,,Stade de la Meinau, Benoît Millot
+12,Sat,28/11/2020,17:00 (16:00),Marseille,3,3â€“1,0.4,Nantes,,Orange Vélodrome,Mikael Lesage
+12,Sat,28/11/2020,21:00 (20:00),Paris S-G,2.6,2â€“2,1.6,Bordeaux,,Parc des Princes,Jérémie Pignard
+12,Sun,29/11/2020,13:00 (12:00),Lyon,2.6,3â€“0,0.4,Reims,,Groupama Stadium, Jérôme Miguelgorry
+12,Sun,29/11/2020,15:00 (14:00),Lens,1.4,1â€“3,2.5,Angers,,Stade Bollaert-Delelis, Aurélien Petit
+12,Sun,29/11/2020,15:00 (14:00),Monaco,3.1,3â€“0,0.2,Nîmes,,Stade Louis II.,Antony Gautier
+12,Sun,29/11/2020,15:00 (14:00),Metz,0.9,0â€“2,1.3,Brest,,Stade Saint-Symphorien,Hakim Ben El Hadj Salem
+12,Sun,29/11/2020,15:00 (14:00),Lorient,0.3,0â€“1,1.6,Montpellier,,Stade Yves Allainmat - Le Moustoir,Bastien Dechepy
+12,Sun,29/11/2020,17:00 (16:00),Nice,3.5,1â€“3,1,Dijon,,Stade de Nice, François Letexier
+12,Sun,29/11/2020,21:00 (20:00),Saint-Étienne,0.9,1â€“1,0.5,Lille,,Stade Geoffroy-Guichard,Benoît Bastien
+13,Fri,04/12/2020,21:00 (20:00),Nîmes,0.5,0â€“2,2.3,Marseille,,Stade des Costières,Willy Delajod
+13,Sat,05/12/2020,17:00 (16:00),Rennes,0.7,0â€“2,0.7,Lens,,Roazhon Park,Johan Hamel
+13,Sat,05/12/2020,21:00 (20:00),Montpellier,1.6,1â€“3,1.9,Paris S-G,,Stade de la Mosson,Mikael Lesage
+13,Sun,06/12/2020,13:00 (12:00),Lille,1.1,2â€“1,0.6,Monaco,,Stade Pierre-Mauroy,Jérôme Brisard
+13,Sun,06/12/2020,15:00 (14:00),Angers,1.9,2â€“0,0.6,Lorient,,Stade Raymond Kopa, Thomas Léonard
+13,Sun,06/12/2020,15:00 (14:00),Bordeaux,1.6,1â€“0,0.3,Brest,,Stade Matmut-Atlantique,Franck Schneider
+13,Sun,06/12/2020,15:00 (14:00),Dijon,0.4,0â€“0,0.7,Saint-Étienne,, Stade Gaston Gérard,Ruddy Buquet
+13,Sun,06/12/2020,15:00 (14:00),Nantes,0.5,0â€“4,3.1,Strasbourg,,Stade de la Beaujoire - Louis Fonteneau,Clément Turpin
+13,Sun,06/12/2020,17:00 (16:00),Reims,0.5,0â€“0,0.8,Nice,,Stade Auguste-Delaune II,Stéphanie Frappart
+13,Sun,06/12/2020,21:00 (20:00),Metz,1.5,1â€“3,2,Lyon,,Stade Saint-Symphorien,Karim Abed
+14,Fri,11/12/2020,21:00 (20:00),Saint-Étienne,1.4,0â€“0,0.6,Angers,,Stade Geoffroy-Guichard, Jérôme Miguelgorry
+14,Sat,12/12/2020,17:00 (16:00),Marseille,0.9,2â€“1,1.7,Monaco,,Orange Vélodrome, Benoît Millot
+14,Sat,12/12/2020,21:00 (20:00),Lens,1.8,2â€“3,1.5,Montpellier,,Stade Bollaert-Delelis,Jeremy Stinat
+14,Sun,13/12/2020,13:00 (12:00),Nice,1.4,0â€“1,1.4,Rennes,,Stade de Nice,Amaury Delerue
+14,Sun,13/12/2020,15:00 (14:00),Lorient,2.9,3â€“0,0.4,Nîmes,,Stade Yves Allainmat - Le Moustoir,Karim Abed
+14,Sun,13/12/2020,15:00 (14:00),Brest,2.5,2â€“1,0.7,Reims,,Stade Francis-Le Blé, Aurélien Petit
+14,Sun,13/12/2020,15:00 (14:00),Strasbourg,1.3,2â€“2,1.7,Metz,,Stade de la Meinau, François Letexier
+14,Sun,13/12/2020,15:00 (14:00),Nantes,2.5,1â€“1,1.2,Dijon,,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier
+14,Sun,13/12/2020,17:00 (16:00),Lille,1.3,2â€“1,0.6,Bordeaux,,Stade Pierre-Mauroy,Eric Wattellier
+14,Sun,13/12/2020,21:00 (20:00),Paris S-G,0.3,0â€“1,0.9,Lyon,,Parc des Princes,Benoît Bastien
+15,Wed,16/12/2020,19:00 (18:00),Dijon,0.2,0â€“2,1.1,Lille,, Stade Gaston Gérard,Hakim Ben El Hadj Salem
+15,Wed,16/12/2020,19:00 (18:00),Reims,1.6,3â€“2,1.5,Nantes,,Stade Auguste-Delaune II,Karim Abed
+15,Wed,16/12/2020,19:00 (18:00),Angers,0.3,0â€“2,0.6,Strasbourg,,Stade Raymond Kopa,Bastien Dechepy
+15,Wed,16/12/2020,19:00 (18:00),Montpellier,0.9,0â€“2,1.4,Metz,,Stade de la Mosson,Jérémie Pignard
+15,Wed,16/12/2020,19:00 (18:00),Nîmes,0.9,0â€“2,2,Nice,,Stade des Costières,Ruddy Buquet
+15,Wed,16/12/2020,21:00 (20:00),Monaco,0.9,0â€“3,1.2,Lens,,Stade Louis II.,Willy Delajod
+15,Wed,16/12/2020,21:00 (20:00),Paris S-G,2.5,2â€“0,1.4,Lorient,,Parc des Princes,Johan Hamel
+15,Wed,16/12/2020,21:00 (20:00),Rennes,1.5,2â€“1,0.8,Marseille,,Roazhon Park,Clément Turpin
+15,Wed,16/12/2020,21:00 (20:00),Bordeaux,0.9,1â€“2,2,Saint-Étienne,,Stade Matmut-Atlantique,Stéphanie Frappart
+15,Wed,16/12/2020,21:00 (20:00),Lyon,3.5,2â€“2,1.5,Brest,,Groupama Stadium,Jérôme Brisard
+16,Sat,19/12/2020,17:00 (16:00),Metz,1,2â€“0,1.1,Lens,,Stade Saint-Symphorien,Amaury Delerue
+16,Sat,19/12/2020,19:00 (18:00),Marseille,2.2,1â€“1,0.2,Reims,,Orange Vélodrome, Thomas Léonard
+16,Sat,19/12/2020,21:00 (20:00),Nice,0.9,1â€“4,3.5,Lyon,,Stade de Nice,Antony Gautier
+16,Sun,20/12/2020,13:00 (12:00),Brest,1.8,2â€“2,0.6,Montpellier,,Stade Francis-Le Blé, Benoît Millot
+16,Sun,20/12/2020,15:00 (14:00),Strasbourg,0.8,0â€“2,0.6,Bordeaux,,Stade de la Meinau,Benoît Bastien
+16,Sun,20/12/2020,15:00 (14:00),Saint-Étienne,2.6,2â€“2,1.8,Nîmes,,Stade Geoffroy-Guichard,Mikael Lesage
+16,Sun,20/12/2020,15:00 (14:00),Dijon,1.1,0â€“1,1.3,Monaco,, Stade Gaston Gérard,Jeremy Stinat
+16,Sun,20/12/2020,15:00 (14:00),Nantes,0.7,1â€“1,1,Angers,,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod
+16,Sun,20/12/2020,17:00 (16:00),Lorient,1.3,0â€“3,1.3,Rennes,,Stade Yves Allainmat - Le Moustoir,Eric Wattellier
+16,Sun,20/12/2020,21:00 (20:00),Lille,0.6,0â€“0,0.8,Paris S-G,,Stade Pierre-Mauroy, François Letexier
+17,Wed,23/12/2020,19:00 (18:00),Lens,2.1,2â€“1,1.4,Brest,,Stade Bollaert-Delelis,Bastien Dechepy
+17,Wed,23/12/2020,19:00 (18:00),Bordeaux,1.2,1â€“3,1.4,Reims,,Stade Matmut-Atlantique,Jérôme Brisard
+17,Wed,23/12/2020,19:00 (18:00),Rennes,1,1â€“0,1.1,Metz,,Roazhon Park,Florent Batta
+17,Wed,23/12/2020,19:00 (18:00),Nîmes,0.9,1â€“3,1.3,Dijon,,Stade des Costières,Jérémie Pignard
+17,Wed,23/12/2020,19:00 (18:00),Nice,0.4,2â€“2,2.6,Lorient,,Stade de Nice, Aurélien Petit
+17,Wed,23/12/2020,21:00 (20:00),Montpellier,0.9,2â€“3,2,Lille,,Stade de la Mosson,Clément Turpin
+17,Wed,23/12/2020,21:00 (20:00),Paris S-G,2.8,4â€“0,0.9,Strasbourg,,Parc des Princes, Jérôme Miguelgorry
+17,Wed,23/12/2020,21:00 (20:00),Lyon,3.6,3â€“0,2,Nantes,,Groupama Stadium,Ruddy Buquet
+17,Wed,23/12/2020,21:00 (20:00),Monaco,0.8,2â€“2,1.9,Saint-Étienne,,Stade Louis II.,Johan Hamel
+17,Wed,23/12/2020,21:00 (20:00),Angers,1,2â€“1,1.3,Marseille,,Stade Raymond Kopa,Hakim Ben El Hadj Salem
+18,Wed,06/01/2021,19:00 (18:00),Strasbourg,4.4,5â€“0,1,Nîmes,,Stade de la Meinau, Benoît Millot
+18,Wed,06/01/2021,19:00 (18:00),Nantes,1,0â€“0,0.7,Rennes,,Stade de la Beaujoire - Louis Fonteneau,Jérémie Pignard
+18,Wed,06/01/2021,19:00 (18:00),Brest,1.6,2â€“0,1.4,Nice,,Stade Francis-Le Blé,Jeremy Stinat
+18,Wed,06/01/2021,19:00 (18:00),Metz,0.7,0â€“0,1,Bordeaux,,Stade Saint-Symphorien,Antony Gautier
+18,Wed,06/01/2021,19:00 (18:00),Lorient,0.7,2â€“5,2.2,Monaco,,Stade Yves Allainmat - Le Moustoir,Franck Schneider
+18,Wed,06/01/2021,21:00 (20:00),Reims,0.6,0â€“0,0.2,Dijon,,Stade Auguste-Delaune II,Amaury Delerue
+18,Wed,06/01/2021,21:00 (20:00),Saint-Étienne,1.2,1â€“1,1.6,Paris S-G,,Stade Geoffroy-Guichard,Karim Abed
+18,Wed,06/01/2021,21:00 (20:00),Lille,0.5,1â€“2,0.4,Angers,,Stade Pierre-Mauroy, Thomas Léonard
+18,Wed,06/01/2021,21:00 (20:00),Lyon,2.4,3â€“2,0.7,Lens,,Groupama Stadium,Eric Wattellier
+18,Wed,06/01/2021,21:00 (20:00),Marseille,2.6,3â€“1,1.1,Montpellier,,Orange Vélodrome,Stéphanie Frappart
+19,Sat,09/01/2021,21:00 (20:00),Monaco,2.5,3â€“0,0.5,Angers,,Stade Louis II.,Benoît Bastien
+19,Sat,09/01/2021,21:00 (20:00),Nîmes,0.3,0â€“1,1,Lille,,Stade des Costières,Jérôme Brisard
+19,Sat,09/01/2021,21:00 (20:00),Metz,1.3,1â€“1,1.5,Nice,,Stade Saint-Symphorien,Johan Hamel
+19,Sat,09/01/2021,21:00 (20:00),Paris S-G,2.9,3â€“0,0.8,Brest,,Parc des Princes,Hakim Ben El Hadj Salem
+19,Sat,09/01/2021,21:00 (20:00),Montpellier,1.2,1â€“1,1,Nantes,,Stade de la Mosson, François Letexier
+19,Sat,09/01/2021,21:00 (20:00),Bordeaux,1.4,2â€“1,1.3,Lorient,,Stade Matmut-Atlantique,Willy Delajod
+19,Sat,09/01/2021,21:00 (20:00),Rennes,1.4,2â€“2,1.1,Lyon,,Roazhon Park,Mikael Lesage
+19,Sat,09/01/2021,21:00 (20:00),Lens,0.6,0â€“1,1.3,Strasbourg,,Stade Bollaert-Delelis,Clément Turpin
+19,Sat,09/01/2021,21:00 (20:00),Dijon,0.5,0â€“0,1.5,Marseille,, Stade Gaston Gérard, Jérôme Miguelgorry
+19,Sat,09/01/2021,21:00 (20:00),Reims,1.4,3â€“1,1.2,Saint-Étienne,,Stade Auguste-Delaune II,Florent Batta
+20,Fri,15/01/2021,21:00 (20:00),Montpellier,0.6,2â€“3,2.7,Monaco,,Stade de la Mosson, Aurélien Petit
+20,Sat,16/01/2021,17:00 (16:00),Marseille,2.2,1â€“2,1.5,Nîmes,,Orange Vélodrome,Jeremy Stinat
+20,Sat,16/01/2021,21:00 (20:00),Angers,0.9,0â€“1,1.5,Paris S-G,,Stade Raymond Kopa,Amaury Delerue
+20,Sun,17/01/2021,13:00 (12:00),Brest,1.6,1â€“2,1.7,Rennes,,Stade Francis-Le Blé,Ruddy Buquet
+20,Sun,17/01/2021,15:00 (14:00),Strasbourg,2.3,1â€“0,1.3,Saint-Étienne,,Stade de la Meinau,Antony Gautier
+20,Sun,17/01/2021,15:00 (14:00),Nice,0.7,0â€“3,1.9,Bordeaux,,Stade de Nice, Thomas Léonard
+20,Sun,17/01/2021,15:00 (14:00),Nantes,1,1â€“1,1.7,Lens,,Stade de la Beaujoire - Louis Fonteneau,Franck Schneider
+20,Sun,17/01/2021,17:00 (16:00),Lille,1.7,2â€“1,0.5,Reims,,Stade Pierre-Mauroy, Benoît Millot
+20,Sun,17/01/2021,21:00 (20:00),Lyon,1.4,0â€“1,1.9,Metz,,Groupama Stadium,Stéphanie Frappart
+9,Wed,20/01/2021,21:00 (20:00),Marseille,0.1,0â€“1,1.7,Lens,,Orange Vélodrome,Jérémie Pignard
+21,Fri,22/01/2021,21:00 (20:00),Paris S-G,5.4,4â€“0,0.6,Montpellier,,Parc des Princes,Willy Delajod
+21,Sat,23/01/2021,17:00 (16:00),Lens,1,0â€“1,0.6,Nice,,Stade Bollaert-Delelis,Hakim Ben El Hadj Salem
+21,Sat,23/01/2021,21:00 (20:00),Monaco,1.3,3â€“1,0.5,Marseille,,Stade Louis II., François Letexier
+21,Sun,24/01/2021,13:00 (12:00),Bordeaux,0.8,2â€“1,1.7,Angers,,Stade Matmut-Atlantique,Florent Batta
+21,Sun,24/01/2021,15:00 (14:00),Metz,0.8,2â€“0,0.2,Nantes,,Stade Saint-Symphorien, Jérôme Miguelgorry
+21,Sun,24/01/2021,15:00 (14:00),Reims,1,1â€“0,0.8,Brest,,Stade Auguste-Delaune II,Johan Hamel
+21,Sun,24/01/2021,15:00 (14:00),Dijon,0.6,1â€“1,2.9,Strasbourg,, Stade Gaston Gérard,Jérôme Brisard
+21,Sun,24/01/2021,17:00 (16:00),Rennes,0.8,0â€“1,1,Lille,,Roazhon Park,Eric Wattellier
+21,Sun,24/01/2021,21:00 (20:00),Saint-Étienne,0.5,0â€“5,1.7,Lyon,,Stade Geoffroy-Guichard,Benoît Bastien
+20,Wed,27/01/2021,21:00 (20:00),Lorient,1.2,3â€“2,0.9,Dijon,,Stade Yves Allainmat - Le Moustoir,Bastien Dechepy
+22,Fri,29/01/2021,21:00 (20:00),Lyon,1.3,2â€“1,1.1,Bordeaux,,Groupama Stadium,Clément Turpin
+22,Sat,30/01/2021,17:00 (16:00),Montpellier,1.4,1â€“2,0.8,Lens,,Stade de la Mosson,Amaury Delerue
+22,Sun,31/01/2021,13:00 (12:00),Nice,0.5,0â€“1,1.1,Saint-Étienne,,Stade de Nice,Franck Schneider
+22,Sun,31/01/2021,15:00 (14:00),Lorient,1.4,3â€“2,2.6,Paris S-G,,Stade Yves Allainmat - Le Moustoir,Jeremy Stinat
+22,Sun,31/01/2021,15:00 (14:00),Strasbourg,1.2,0â€“1,1.3,Reims,,Stade de la Meinau,Stéphanie Frappart
+22,Sun,31/01/2021,15:00 (14:00),Angers,1.5,3â€“1,0.5,Nîmes,,Stade Raymond Kopa,Ruddy Buquet
+22,Sun,31/01/2021,15:00 (14:00),Brest,1.5,2â€“4,1.6,Metz,,Stade Francis-Le Blé, Benoît Millot
+22,Sun,31/01/2021,17:00 (16:00),Lille,1.8,1â€“0,0.4,Dijon,,Stade Pierre-Mauroy,Jérémie Pignard
+22,Sun,31/01/2021,21:00 (20:00),Nantes,0.8,1â€“2,1.5,Monaco,,Stade de la Beaujoire - Louis Fonteneau, Thomas Léonard
+23,Wed,03/02/2021,19:00 (18:00),Reims,0.9,0â€“0,0.3,Angers,,Stade Auguste-Delaune II, Aurélien Petit
+23,Wed,03/02/2021,19:00 (18:00),Rennes,1.5,1â€“1,0.9,Lorient,,Roazhon Park,Hakim Ben El Hadj Salem
+23,Wed,03/02/2021,19:00 (18:00),Bordeaux,0.9,0â€“3,2.1,Lille,,Stade Matmut-Atlantique,Mikael Lesage
+23,Wed,03/02/2021,19:00 (18:00),Strasbourg,0.6,2â€“2,0.9,Brest,,Stade de la Meinau,Florent Batta
+23,Wed,03/02/2021,19:00 (18:00),Metz,0.7,1â€“1,1.1,Montpellier,,Stade Saint-Symphorien,Bastien Dechepy
+23,Wed,03/02/2021,21:00 (20:00),Lens,1.5,2â€“2,1.7,Marseille,,Stade Bollaert-Delelis,Willy Delajod
+23,Wed,03/02/2021,21:00 (20:00),Paris S-G,2,3â€“0,1.7,Nîmes,,Parc des Princes, François Letexier
+23,Wed,03/02/2021,21:00 (20:00),Saint-Étienne,1.7,1â€“1,1.7,Nantes,,Stade Geoffroy-Guichard,Eric Wattellier
+23,Wed,03/02/2021,21:00 (20:00),Dijon,1.5,0â€“1,2.5,Lyon,, Stade Gaston Gérard,Johan Hamel
+23,Wed,03/02/2021,21:00 (20:00),Monaco,2.2,2â€“1,0.3,Nice,,Stade Louis II.,Jérôme Brisard
+24,Sat,06/02/2021,17:00 (16:00),Lorient,0.8,1â€“0,1,Reims,,Stade Yves Allainmat - Le Moustoir, Thomas Léonard
+24,Sat,06/02/2021,19:00 (18:00),Lyon,1.8,3â€“0,0.3,Strasbourg,,Groupama Stadium,Amaury Delerue
+24,Sat,06/02/2021,21:00 (20:00),Lens,0.9,0â€“0,0.8,Rennes,,Stade Bollaert-Delelis,Jeremy Stinat
+24,Sun,07/02/2021,13:00 (12:00),Brest,2.6,2â€“1,1,Bordeaux,,Stade Francis-Le Blé,Eric Wattellier
+24,Sun,07/02/2021,15:00 (14:00),Montpellier,4.7,4â€“2,1.2,Dijon,,Stade de la Mosson,Franck Schneider
+24,Sun,07/02/2021,15:00 (14:00),Nîmes,1.3,3â€“4,1.5,Monaco,,Stade des Costières,Clément Turpin
+24,Sun,07/02/2021,15:00 (14:00),Nice,1.3,3â€“0,0.7,Angers,,Stade de Nice, Jérôme Miguelgorry
+24,Sun,07/02/2021,15:00 (14:00),Saint-Étienne,0.7,1â€“0,0.2,Metz,,Stade Geoffroy-Guichard,Ruddy Buquet
+24,Sun,07/02/2021,17:00 (16:00),Nantes,0.5,0â€“2,1.8,Lille,,Stade de la Beaujoire - Louis Fonteneau,Stéphanie Frappart
+24,Sun,07/02/2021,21:00 (20:00),Marseille,0.5,0â€“2,1.1,Paris S-G,,Orange Vélodrome,Benoît Bastien
+25,Sat,13/02/2021,17:00 (16:00),Paris S-G,2.3,2â€“1,1,Nice,,Parc des Princes,Jérémie Pignard
+25,Sat,13/02/2021,19:00 (18:00),Reims,0.6,1â€“1,3.3,Lens,,Stade Auguste-Delaune II,Eric Wattellier
+25,Sat,13/02/2021,21:00 (20:00),Lyon,3.3,1â€“2,1.6,Montpellier,,Groupama Stadium,Antony Gautier
+25,Sun,14/02/2021,13:00 (12:00),Monaco,1.8,2â€“2,1.3,Lorient,,Stade Louis II., Benoît Millot
+25,Sun,14/02/2021,15:00 (14:00),Metz,0.8,1â€“2,1.4,Strasbourg,,Stade Saint-Symphorien,Mikael Lesage
+25,Sun,14/02/2021,15:00 (14:00),Angers,1.4,1â€“3,1.9,Nantes,,Stade Raymond Kopa, François Letexier
+25,Sun,14/02/2021,15:00 (14:00),Dijon,0.6,0â€“2,1.9,Nîmes,, Stade Gaston Gérard, Aurélien Petit
+25,Sun,14/02/2021,15:00 (14:00),Rennes,1.2,0â€“2,0.4,Saint-Étienne,,Roazhon Park,Florent Batta
+25,Sun,14/02/2021,17:00 (16:00),Lille,0.6,0â€“0,0.1,Brest,,Stade Pierre-Mauroy,Bastien Dechepy
+25,Sun,14/02/2021,21:00 (20:00),Bordeaux,1.3,0â€“0,0.2,Marseille,,Stade Matmut-Atlantique,Jérôme Brisard
+11,Wed,17/02/2021,21:00 (20:00),Marseille,0.6,3â€“2,0.7,Nice,,Orange Vélodrome,Mikael Lesage
+26,Fri,19/02/2021,21:00 (20:00),Brest,1.8,2â€“3,3.9,Lyon,,Stade Francis-Le Blé,Franck Schneider
+26,Sat,20/02/2021,13:00 (12:00),Saint-Étienne,2.1,1â€“1,0.4,Reims,,Stade Geoffroy-Guichard,Antony Gautier
+26,Sat,20/02/2021,17:00 (16:00),Nantes,1.3,1â€“1,0.5,Marseille,,Stade de la Beaujoire - Louis Fonteneau,Amaury Delerue
+26,Sun,21/02/2021,13:00 (12:00),Montpellier,2.5,2â€“1,1.7,Rennes,,Stade de la Mosson,Clément Turpin
+26,Sun,21/02/2021,15:00 (14:00),Nice,1.2,1â€“2,1.2,Metz,,Stade de Nice,Jeremy Stinat
+26,Sun,21/02/2021,15:00 (14:00),Strasbourg,1.3,0â€“0,0.3,Angers,,Stade de la Meinau,Hakim Ben El Hadj Salem
+26,Sun,21/02/2021,15:00 (14:00),Lens,0.9,2â€“1,0.7,Dijon,,Stade Bollaert-Delelis,Benoît Bastien
+26,Sun,21/02/2021,15:00 (14:00),Nîmes,0.4,2â€“0,1.2,Bordeaux,,Stade des Costières,Willy Delajod
+26,Sun,21/02/2021,17:00 (16:00),Lorient,0.3,1â€“4,1,Lille,,Stade Yves Allainmat - Le Moustoir,Johan Hamel
+26,Sun,21/02/2021,21:00 (20:00),Paris S-G,0.6,0â€“2,0.7,Monaco,,Parc des Princes,Ruddy Buquet
+21,Wed,24/02/2021,19:00 (18:00),Nîmes,1.2,1â€“0,0.5,Lorient,,Stade des Costières, Jérôme Miguelgorry
+27,Fri,26/02/2021,21:00 (20:00),Rennes,1.2,1â€“2,2.1,Nice,,Roazhon Park,Johan Hamel
+27,Sat,27/02/2021,13:00 (12:00),Bordeaux,0.7,1â€“2,1.7,Metz,,Stade Matmut-Atlantique, Aurélien Petit
+27,Sat,27/02/2021,17:00 (16:00),Dijon,0.3,0â€“4,1.9,Paris S-G,, Stade Gaston Gérard,Mikael Lesage
+27,Sun,28/02/2021,13:00 (12:00),Monaco,2.3,2â€“0,0.4,Brest,,Stade Louis II.,Jérémie Pignard
+27,Sun,28/02/2021,15:00 (14:00),Nîmes,0.9,1â€“1,0.8,Nantes,,Stade des Costières,Florent Batta
+27,Sun,28/02/2021,15:00 (14:00),Lorient,0.7,2â€“1,0.9,Saint-Étienne,,Stade Yves Allainmat - Le Moustoir,Stéphanie Frappart
+27,Sun,28/02/2021,15:00 (14:00),Reims,0.6,0â€“0,0.5,Montpellier,,Stade Auguste-Delaune II, François Letexier
+27,Sun,28/02/2021,15:00 (14:00),Angers,1.6,2â€“2,1.6,Lens,,Stade Raymond Kopa,Bastien Dechepy
+27,Sun,28/02/2021,17:00 (16:00),Lille,0.8,1â€“1,1,Strasbourg,,Stade Pierre-Mauroy,Jérôme Brisard
+27,Sun,28/02/2021,21:00 (20:00),Marseille,1.7,1â€“1,0.5,Lyon,,Orange Vélodrome, Benoît Millot
+28,Wed,03/03/2021,19:00 (18:00),Nice,1.6,2â€“1,1.8,Nîmes,,Stade de Nice,Hakim Ben El Hadj Salem
+28,Wed,03/03/2021,19:00 (18:00),Lyon,2.2,1â€“0,0.8,Rennes,,Groupama Stadium,Ruddy Buquet
+28,Wed,03/03/2021,19:00 (18:00),Metz,0.8,0â€“1,1.1,Angers,,Stade Saint-Symphorien,Johan Hamel
+28,Wed,03/03/2021,19:00 (18:00),Saint-Étienne,1.8,2â€“3,2.3,Lens,,Stade Geoffroy-Guichard,Amaury Delerue
+28,Wed,03/03/2021,19:00 (18:00),Brest,1.1,3â€“1,0.5,Dijon,,Stade Francis-Le Blé,Jeremy Stinat
+28,Wed,03/03/2021,21:00 (20:00),Bordeaux,0.6,0â€“1,0.9,Paris S-G,,Stade Matmut-Atlantique,Franck Schneider
+28,Wed,03/03/2021,21:00 (20:00),Strasbourg,1,1â€“0,0.7,Monaco,,Stade de la Meinau,Eric Wattellier
+28,Wed,03/03/2021,21:00 (20:00),Lille,2.1,2â€“0,0.1,Marseille,,Stade Pierre-Mauroy,Clément Turpin
+28,Wed,03/03/2021,21:00 (20:00),Nantes,1.3,1â€“2,0.6,Reims,,Stade de la Beaujoire - Louis Fonteneau,Willy Delajod
+28,Wed,03/03/2021,21:00 (20:00),Montpellier,1.1,1â€“1,1.8,Lorient,,Stade de la Mosson,Benoît Bastien
+22,Wed,10/03/2021,19:00 (18:00),Marseille,0.8,1â€“0,0.5,Rennes,,Orange Vélodrome,Jérémie Pignard
+29,Fri,12/03/2021,21:00 (20:00),Reims,0.8,1â€“1,1.8,Lyon,,Stade Auguste-Delaune II,Jérôme Brisard
+29,Sat,13/03/2021,13:00 (12:00),Angers,0.3,0â€“1,0.7,Saint-Étienne,,Stade Raymond Kopa, Benoît Millot
+29,Sat,13/03/2021,17:00 (16:00),Marseille,1.5,3â€“1,0.3,Brest,,Orange Vélodrome, Jérôme Miguelgorry
+29,Sun,14/03/2021,13:00 (12:00),Nîmes,1.5,1â€“1,0.9,Montpellier,,Stade des Costières,Eric Wattellier
+29,Sun,14/03/2021,15:00 (14:00),Rennes,1.3,1â€“0,0.7,Strasbourg,,Roazhon Park,Bastien Dechepy
+29,Sun,14/03/2021,15:00 (14:00),Lens,2.2,2â€“2,1.4,Metz,,Stade Bollaert-Delelis,Florent Batta
+29,Sun,14/03/2021,15:00 (14:00),Lorient,2.1,1â€“1,0.5,Nice,,Stade Yves Allainmat - Le Moustoir,Ruddy Buquet
+29,Sun,14/03/2021,15:00 (14:00),Dijon,1.1,1â€“3,1.3,Bordeaux,, Stade Gaston Gérard, Thomas Léonard
+29,Sun,14/03/2021,17:05 (16:05),Monaco,0.6,0â€“0,0.2,Lille,,Stade Louis II.,Stéphanie Frappart
+29,Sun,14/03/2021,21:00 (20:00),Paris S-G,0.8,1â€“2,1.3,Nantes,,Parc des Princes,Karim Abed
+30,Fri,19/03/2021,21:00 (20:00),Saint-Étienne,0.5,0â€“4,2.4,Monaco,,Stade Geoffroy-Guichard,Mikael Lesage
+30,Sat,20/03/2021,13:00 (12:00),Metz,0.7,1â€“3,2.1,Rennes,,Stade Saint-Symphorien,Willy Delajod
+30,Sat,20/03/2021,17:00 (16:00),Nice,2.5,3â€“0,0.4,Marseille,,Stade de Nice, François Letexier
+30,Sun,21/03/2021,13:00 (12:00),Strasbourg,2,1â€“2,1.8,Lens,,Stade de la Meinau,Jeremy Stinat
+30,Sun,21/03/2021,15:00 (14:00),Dijon,0.9,0â€“1,1.1,Reims,, Stade Gaston Gérard,Benoît Bastien
+30,Sun,21/03/2021,15:00 (14:00),Nantes,1.4,1â€“1,1.4,Lorient,,Stade de la Beaujoire - Louis Fonteneau,Antony Gautier
+30,Sun,21/03/2021,15:00 (14:00),Montpellier,2.5,3â€“1,1.4,Bordeaux,,Stade de la Mosson,Hakim Ben El Hadj Salem
+30,Sun,21/03/2021,15:00 (14:00),Brest,0.5,0â€“0,1,Angers,,Stade Francis-Le Blé, Aurélien Petit
+30,Sun,21/03/2021,17:05 (16:05),Lille,1,1â€“2,0.6,Nîmes,,Stade Pierre-Mauroy,Franck Schneider
+30,Sun,21/03/2021,21:00 (20:00),Lyon,0.7,2â€“4,2.1,Paris S-G,,Groupama Stadium,Clément Turpin
+31,Sat,03/04/2021,13:00 (12:00),Monaco,2.8,4â€“0,0.4,Metz,,Stade Louis II.,Johan Hamel
+31,Sat,03/04/2021,17:00 (16:00),Paris S-G,0.9,0â€“1,0.4,Lille,,Parc des Princes,Benoît Bastien
+31,Sat,03/04/2021,21:00 (20:00),Lens,0.9,1â€“1,2.2,Lyon,,Stade Bollaert-Delelis, Benoît Millot
+31,Sun,04/04/2021,13:00 (12:00),Angers,1.3,1â€“1,1.7,Montpellier,,Stade Raymond Kopa,Florent Batta
+31,Sun,04/04/2021,15:00 (14:00),Nantes,1.4,1â€“2,2.1,Nice,,Stade de la Beaujoire - Louis Fonteneau,Stéphanie Frappart
+31,Sun,04/04/2021,15:00 (14:00),Reims,1.2,2â€“2,1.8,Rennes,,Stade Auguste-Delaune II,Karim Abed
+31,Sun,04/04/2021,15:00 (14:00),Lorient,1.5,1â€“0,0.5,Brest,,Stade Yves Allainmat - Le Moustoir,Bastien Dechepy
+31,Sun,04/04/2021,15:00 (14:00),Bordeaux,2,2â€“3,2.1,Strasbourg,,Stade Matmut-Atlantique,Jérôme Brisard
+31,Sun,04/04/2021,17:05 (16:05),Nîmes,1.7,0â€“2,1.9,Saint-Étienne,,Stade des Costières, Thomas Léonard
+31,Sun,04/04/2021,21:00 (20:00),Marseille,1.3,2â€“0,0.2,Dijon,,Orange Vélodrome,Ruddy Buquet
+32,Fri,09/04/2021,21:00 (20:00),Metz,1.8,0â€“2,0.6,Lille,,Stade Saint-Symphorien,Clément Turpin
+32,Sat,10/04/2021,17:00 (16:00),Strasbourg,0.7,1â€“4,1.7,Paris S-G,,Stade de la Meinau,Jérémie Pignard
+32,Sat,10/04/2021,21:00 (20:00),Montpellier,2.1,3â€“3,1.7,Marseille,,Stade de la Mosson,Jérôme Brisard
+32,Sun,11/04/2021,13:00 (12:00),Rennes,0.7,1â€“0,0.3,Nantes,,Roazhon Park,Amaury Delerue
+32,Sun,11/04/2021,15:00 (14:00),Saint-Étienne,2.9,4â€“1,1.6,Bordeaux,,Stade Geoffroy-Guichard,Franck Schneider
+32,Sun,11/04/2021,15:00 (14:00),Lens,3.1,4â€“1,1.4,Lorient,,Stade Bollaert-Delelis,Eric Wattellier
+32,Sun,11/04/2021,15:00 (14:00),Brest,2.3,1â€“1,0.9,Nîmes,,Stade Francis-Le Blé,Willy Delajod
+32,Sun,11/04/2021,15:00 (14:00),Nice,0.6,0â€“0,0.5,Reims,,Stade de Nice,Jeremy Stinat
+32,Sun,11/04/2021,17:05 (16:05),Monaco,3.4,3â€“0,0.9,Dijon,,Stade Louis II., Aurélien Petit
+32,Sun,11/04/2021,21:00 (20:00),Lyon,3,3â€“0,0.9,Angers,,Groupama Stadium,Mikael Lesage
+33,Fri,16/04/2021,21:00 (20:00),Lille,1.2,1â€“1,0.7,Montpellier,,Stade Pierre-Mauroy, Benoît Millot
+33,Sat,17/04/2021,12:45 (11:45),Angers,0.9,0â€“3,1.5,Rennes,,Stade Raymond Kopa, Thomas Léonard
+33,Sat,17/04/2021,17:00 (16:00),Marseille,1.9,3â€“2,1.8,Lorient,,Orange Vélodrome,Hakim Ben El Hadj Salem
+33,Sun,18/04/2021,13:00 (12:00),Paris S-G,2.3,3â€“2,1,Saint-Étienne,,Parc des Princes,Ruddy Buquet
+33,Sun,18/04/2021,15:00 (14:00),Brest,0.3,1â€“1,1.3,Lens,,Stade Francis-Le Blé,Karim Abed
+33,Sun,18/04/2021,15:00 (14:00),Dijon,1.3,2â€“0,0.9,Nice,, Stade Gaston Gérard,Johan Hamel
+33,Sun,18/04/2021,15:00 (14:00),Nîmes,1.4,1â€“1,1.2,Strasbourg,,Stade des Costières,Antony Gautier
+33,Sun,18/04/2021,15:00 (14:00),Reims,0.9,0â€“0,0.4,Metz,,Stade Auguste-Delaune II, Jérôme Miguelgorry
+33,Sun,18/04/2021,17:05 (16:05),Bordeaux,1.1,0â€“3,2.2,Monaco,,Stade Matmut-Atlantique, François Letexier
+33,Sun,18/04/2021,21:00 (20:00),Nantes,0.9,1â€“2,2.3,Lyon,,Stade de la Beaujoire - Louis Fonteneau,Benoît Bastien
+34,Fri,23/04/2021,21:00 (20:00),Reims,0.8,1â€“3,2.2,Marseille,,Stade Auguste-Delaune II,Eric Wattellier
+34,Sat,24/04/2021,13:00 (12:00),Saint-Étienne,0.8,1â€“2,1.5,Brest,,Stade Geoffroy-Guichard,Florent Batta
+34,Sat,24/04/2021,17:00 (16:00),Metz,0.5,1â€“3,2.7,Paris S-G,,Stade Saint-Symphorien,Willy Delajod
+34,Sun,25/04/2021,13:00 (12:00),Nice,2.1,3â€“1,1.4,Montpellier,,Stade de Nice,Bastien Dechepy
+34,Sun,25/04/2021,15:00 (14:00),Strasbourg,1.4,1â€“2,0.8,Nantes,,Stade de la Meinau,Ruddy Buquet
+34,Sun,25/04/2021,15:00 (14:00),Rennes,3.5,5â€“1,1.1,Dijon,,Roazhon Park,Jeremy Stinat
+34,Sun,25/04/2021,15:00 (14:00),Lens,0.4,2â€“1,1.4,Nîmes,,Stade Bollaert-Delelis, Aurélien Petit
+34,Sun,25/04/2021,15:00 (14:00),Lorient,2.9,4â€“1,1,Bordeaux,,Stade Yves Allainmat - Le Moustoir,Jérémie Pignard
+34,Sun,25/04/2021,17:05 (16:05),Angers,0.1,0â€“1,1.3,Monaco,,Stade Raymond Kopa,Hakim Ben El Hadj Salem
+34,Sun,25/04/2021,21:00 (20:00),Lyon,0.8,2â€“3,2.1,Lille,,Groupama Stadium, François Letexier
+35,Fri,30/04/2021,21:00 (20:00),Marseille,0.8,1â€“1,0.3,Strasbourg,,Orange Vélodrome,Stéphanie Frappart
+35,Sat,01/05/2021,17:00 (16:00),Paris S-G,1.6,2â€“1,1.2,Lens,,Parc des Princes,Jérôme Brisard
+35,Sat,01/05/2021,21:00 (20:00),Lille,1,2â€“0,0,Nice,,Stade Pierre-Mauroy,Amaury Delerue
+35,Sun,02/05/2021,13:00 (12:00),Bordeaux,0.6,1â€“0,0.8,Rennes,,Stade Matmut-Atlantique,Antony Gautier
+35,Sun,02/05/2021,15:00 (14:00),Dijon,1,1â€“5,1.7,Metz,, Stade Gaston Gérard,Franck Schneider
+35,Sun,02/05/2021,15:00 (14:00),Lorient,1.8,2â€“0,0.8,Angers,,Stade Yves Allainmat - Le Moustoir,Willy Delajod
+35,Sun,02/05/2021,15:00 (14:00),Nîmes,2.6,2â€“2,1,Reims,,Stade des Costières, Benoît Millot
+35,Sun,02/05/2021,15:00 (14:00),Brest,1.7,1â€“4,2.2,Nantes,,Stade Francis-Le Blé,Mikael Lesage
+35,Sun,02/05/2021,17:05 (16:05),Montpellier,0.9,1â€“2,3,Saint-Étienne,,Stade de la Mosson,Karim Abed
+35,Sun,02/05/2021,21:00 (20:00),Monaco,2.5,2â€“3,1.8,Lyon,,Stade Louis II.,Clément Turpin
+36,Fri,07/05/2021,21:00 (20:00),Lens,1,0â€“3,1.5,Lille,,Stade Bollaert-Delelis,Clément Turpin
+36,Sat,08/05/2021,13:00 (12:00),Nantes,1.9,3â€“0,1.1,Bordeaux,,Stade de la Beaujoire - Louis Fonteneau, Benoît Millot
+36,Sat,08/05/2021,17:00 (16:00),Lyon,4.2,4â€“1,0.6,Lorient,,Groupama Stadium,Mikael Lesage
+36,Sun,09/05/2021,13:00 (12:00),Saint-Étienne,1.9,1â€“0,1.6,Marseille,,Stade Geoffroy-Guichard,Johan Hamel
+36,Sun,09/05/2021,15:00 (14:00),Nice,1.8,3â€“2,0.7,Brest,,Stade de Nice, Thomas Léonard
+36,Sun,09/05/2021,15:00 (14:00),Angers,1.7,3â€“0,0.5,Dijon,,Stade Raymond Kopa,Jérôme Brisard
+36,Sun,09/05/2021,15:00 (14:00),Strasbourg,1.7,2â€“3,0.6,Montpellier,,Stade de la Meinau, Jérôme Miguelgorry
+36,Sun,09/05/2021,15:00 (14:00),Metz,0.8,0â€“3,1.6,Nîmes,,Stade Saint-Symphorien, François Letexier
+36,Sun,09/05/2021,17:05 (16:05),Reims,0.3,0â€“1,1.1,Monaco,,Stade Auguste-Delaune II,Antony Gautier
+36,Sun,09/05/2021,21:00 (20:00),Rennes,1,1â€“1,1.9,Paris S-G,,Roazhon Park,Ruddy Buquet
+37,Sun,16/05/2021,21:00 (20:00),Montpellier,0.3,0â€“0,1.6,Brest,,Stade de la Mosson, Aurélien Petit
+37,Sun,16/05/2021,21:00 (20:00),Monaco,1,2â€“1,0.5,Rennes,,Stade Louis II.,Benoît Bastien
+37,Sun,16/05/2021,21:00 (20:00),Dijon,0.9,0â€“4,2.3,Nantes,, Stade Gaston Gérard,Karim Abed
+37,Sun,16/05/2021,21:00 (20:00),Nice,0.4,0â€“2,1.8,Strasbourg,,Stade de Nice,Mikael Lesage
+37,Sun,16/05/2021,21:00 (20:00),Lorient,1.1,2â€“1,0.1,Metz,,Stade Yves Allainmat - Le Moustoir,Florent Batta
+37,Sun,16/05/2021,21:00 (20:00),Bordeaux,2.3,3â€“0,1.1,Lens,,Stade Matmut-Atlantique,Eric Wattellier
+37,Sun,16/05/2021,21:00 (20:00),Paris S-G,4.6,4â€“0,0.1,Reims,,Parc des Princes,Clément Turpin
+37,Sun,16/05/2021,21:00 (20:00),Nîmes,1.1,2â€“5,2.7,Lyon,,Stade des Costières,Ruddy Buquet
+37,Sun,16/05/2021,21:00 (20:00),Lille,0.9,0â€“0,0.4,Saint-Étienne,,Stade Pierre-Mauroy,Jérôme Brisard
+37,Sun,16/05/2021,21:00 (20:00),Marseille,2.7,3â€“2,1.3,Angers,,Orange Vélodrome,Franck Schneider
+38,Sun,23/05/2021,21:00 (20:00),Reims,0.8,1â€“2,1.2,Bordeaux,,Stade Auguste-Delaune II,Jérôme Brisard
+38,Sun,23/05/2021,21:00 (20:00),Nantes,1.3,1â€“2,1,Montpellier,,Stade de la Beaujoire - Louis Fonteneau,Ruddy Buquet
+38,Sun,23/05/2021,21:00 (20:00),Angers,0.9,1â€“2,1.3,Lille,,Stade Raymond Kopa,Benoît Bastien
+38,Sun,23/05/2021,21:00 (20:00),Strasbourg,0.3,1â€“1,0.6,Lorient,,Stade de la Meinau,Stéphanie Frappart
+38,Sun,23/05/2021,21:00 (20:00),Metz,1.1,1â€“1,1.2,Marseille,,Stade Saint-Symphorien,Hakim Ben El Hadj Salem
+38,Sun,23/05/2021,21:00 (20:00),Rennes,1,2â€“0,1.1,Nîmes,,Roazhon Park,Willy Delajod
+38,Sun,23/05/2021,21:00 (20:00),Saint-Étienne,1.7,0â€“1,1.4,Dijon,,Stade Geoffroy-Guichard,Antony Gautier
+38,Sun,23/05/2021,21:00 (20:00),Lyon,1.9,2â€“3,1.6,Nice,,Groupama Stadium, Benoît Millot
+38,Sun,23/05/2021,21:00 (20:00),Lens,0.5,0â€“0,1.8,Monaco,,Stade Bollaert-Delelis,Jérémie Pignard
+38,Sun,23/05/2021,21:00 (20:00),Brest,0.9,0â€“2,2.6,Paris S-G,,Stade Francis-Le Blé,Mikael Lesage

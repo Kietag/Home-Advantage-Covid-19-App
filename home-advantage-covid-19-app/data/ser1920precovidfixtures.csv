@@ -1,0 +1,251 @@
+﻿Week,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee
+1,Sat,24/08/2019,18:00 (17:00),Parma,0.4,0â€“1,1.3,Juventus,"20,073",Stadio Ennio Tardini,Fabio Maresca
+1,Sat,24/08/2019,20:45 (19:45),Fiorentina,1.7,3â€“4,2,Napoli,"33,614",Stadio Artemio Franchi,Davide Massa
+1,Sun,25/08/2019,18:00 (17:00),Udinese,0.9,1â€“0,0.4,Milan,"24,584",Dacia Arena,Fabrizio Pasqua
+1,Sun,25/08/2019,20:45 (19:45),SPAL,1.6,2â€“3,1.7,Atalanta,"11,706",Stadio Paolo Mazza,Gianluca Manganiello
+1,Sun,25/08/2019,20:45 (19:45),Roma,1.9,3â€“3,1.3,Genoa,"38,779",Stadio Olimpico,Giampaolo Calvarese
+1,Sun,25/08/2019,20:45 (19:45),Torino,1.2,2â€“1,1.5,Sassuolo,"16,536",Stadio Olimpico di Torino,Maurizio Mariani
+1,Sun,25/08/2019,20:45 (19:45),Hellas Verona,0.2,1â€“1,1.6,Bologna,"16,324",Stadio Marc'Antonio Bentegodi,Antonio Giua
+1,Sun,25/08/2019,20:45 (19:45),Sampdoria,0.8,0â€“3,2.3,Lazio,"19,500",Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+1,Sun,25/08/2019,20:45 (19:45),Cagliari,1,0â€“1,1.5,Brescia,"16,099",Sardegna Arena,Eugenio Abbattista
+1,Mon,26/08/2019,20:45 (19:45),Inter,1.7,4â€“0,0.7,Lecce,"64,188",Stadio Giuseppe Meazza,Federico La Penna
+2,Fri,30/08/2019,20:45 (19:45),Bologna,2.8,1â€“0,0.7,SPAL,"25,086",Stadio Renato Dall'Ara,Marco Di Bello
+2,Sat,31/08/2019,18:00 (17:00),Milan,1.5,1â€“0,0.6,Brescia,"56,691",Stadio Giuseppe Meazza,Rosario Abisso
+2,Sat,31/08/2019,20:45 (19:45),Juventus,1.4,4â€“3,1.4,Napoli,"39,203",Allianz Stadium,Daniele Orsato
+2,Sun,01/09/2019,18:00 (17:00),Lazio,1.9,1â€“1,1.3,Roma,"52,000",Stadio Olimpico,Marco Guida
+2,Sun,01/09/2019,20:45 (19:45),Sassuolo,1.6,4â€“1,1.5,Sampdoria,"9,608",Stadio Città del Tricolore,Luca Pairetto
+2,Sun,01/09/2019,20:45 (19:45),Udinese,1.5,1â€“3,0.6,Parma,"20,410",Dacia Arena,Marco Piccinini
+2,Sun,01/09/2019,20:45 (19:45),Genoa,2.1,2â€“1,1.9,Fiorentina,"20,000",Stadio Comunale Luigi Ferraris,Piero Giacomelli
+2,Sun,01/09/2019,20:45 (19:45),Cagliari,0.4,1â€“2,1.5,Inter,"16,412",Sardegna Arena,Fabio Maresca
+2,Sun,01/09/2019,20:45 (19:45),Lecce,1.3,0â€“1,1.4,Hellas Verona,"24,418",Stadio Comunale Via Del Mare,Juan Sacchi
+2,Sun,01/09/2019,20:45 (19:45),Atalanta,2,2â€“3,1.1,Torino,"8,182",Stadio Ennio Tardini,Daniele Doveri
+3,Sat,14/09/2019,15:00 (14:00),Fiorentina,1.6,0â€“0,0.3,Juventus,"40,000",Stadio Artemio Franchi,Massimiliano Irrati
+3,Sat,14/09/2019,18:00 (17:00),Napoli,1.3,2â€“0,1.5,Sampdoria,"40,000",Stadio San Paolo,Federico La Penna
+3,Sat,14/09/2019,20:45 (19:45),Inter,1.4,1â€“0,0.4,Udinese,"57,991",Stadio Giuseppe Meazza,Maurizio Mariani
+3,Sun,15/09/2019,12:30 (11:30),Genoa,1.4,1â€“2,2.5,Atalanta,"23,395",Stadio Comunale Luigi Ferraris,Michael Fabbri
+3,Sun,15/09/2019,15:00 (14:00),Brescia,0.8,3â€“4,3.2,Bologna,"15,000",Stadio Mario Rigamonti,Gianluca Rocchi
+3,Sun,15/09/2019,15:00 (14:00),SPAL,1.1,2â€“1,1.5,Lazio,"13,650",Stadio Paolo Mazza,Giampaolo Calvarese
+3,Sun,15/09/2019,15:00 (14:00),Parma,1,1â€“3,0.7,Cagliari,"14,068",Stadio Ennio Tardini,Fabrizio Pasqua
+3,Sun,15/09/2019,18:00 (17:00),Roma,2.1,4â€“2,1.2,Sassuolo,"34,407",Stadio Olimpico,Daniele Chiffi
+3,Sun,15/09/2019,20:45 (19:45),Hellas Verona,0.8,0â€“1,1.3,Milan,"24,363",Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+3,Mon,16/09/2019,20:45 (19:45),Torino,2,1â€“2,1.2,Lecce,"21,620",Stadio Olimpico di Torino,Antonio Giua
+4,Fri,20/09/2019,20:45 (19:45),Cagliari,1.5,3â€“1,1.3,Genoa,"14,574",Sardegna Arena,Gianluca Manganiello
+4,Sat,21/09/2019,15:00 (14:00),Udinese,0.6,0â€“1,0.7,Brescia,"19,611",Dacia Arena,Paolo Valeri
+4,Sat,21/09/2019,18:00 (17:00),Juventus,2,2â€“1,1.2,Hellas Verona,"39,945",Allianz Stadium,Federico La Penna
+4,Sat,21/09/2019,20:45 (19:45),Milan,0.8,0â€“2,1.9,Inter,"70,440",Stadio Giuseppe Meazza,Daniele Doveri
+4,Sun,22/09/2019,12:30 (11:30),Sassuolo,2.4,3â€“0,1,SPAL,"10,937",Stadio Città del Tricolore,Maurizio Mariani
+4,Sun,22/09/2019,15:00 (14:00),Bologna,1.4,1â€“2,1.5,Roma,"25,513",Stadio Renato Dall'Ara,Luca Pairetto
+4,Sun,22/09/2019,15:00 (14:00),Sampdoria,1.2,1â€“0,0.6,Torino,"19,041",Stadio Comunale Luigi Ferraris,Piero Giacomelli
+4,Sun,22/09/2019,15:00 (14:00),Lecce,1.2,1â€“4,2.8,Napoli,"21,644",Stadio Comunale Via Del Mare,Marco Piccinini
+4,Sun,22/09/2019,18:00 (17:00),Atalanta,1.1,2â€“2,0.9,Fiorentina,"10,314",Stadio Ennio Tardini,Daniele Orsato
+4,Sun,22/09/2019,20:45 (19:45),Lazio,2.2,2â€“0,0.7,Parma,"31,404",Stadio Olimpico,Rosario Abisso
+5,Tue,24/09/2019,19:00 (18:00),Hellas Verona,1,0â€“0,0.8,Udinese,"13,740",Stadio Marc'Antonio Bentegodi,Daniele Chiffi
+5,Tue,24/09/2019,21:00 (20:00),Brescia,0.9,1â€“2,1.7,Juventus,"14,000",Stadio Mario Rigamonti,Fabrizio Pasqua
+5,Wed,25/09/2019,19:00 (18:00),Roma,1.7,0â€“2,1.9,Atalanta,"31,832",Stadio Olimpico,Massimiliano Irrati
+5,Wed,25/09/2019,21:00 (20:00),Fiorentina,1.9,2â€“1,0.6,Sampdoria,"33,469",Stadio Artemio Franchi,Daniele Doveri
+5,Wed,25/09/2019,21:00 (20:00),Napoli,2.1,0â€“1,0.3,Cagliari,"25,408",Stadio San Paolo,Marco Di Bello
+5,Wed,25/09/2019,21:00 (20:00),Genoa,0.2,0â€“0,1.7,Bologna,"20,497",Stadio Comunale Luigi Ferraris,Davide Massa
+5,Wed,25/09/2019,21:00 (20:00),Inter,1.4,1â€“0,1.1,Lazio,"56,175",Stadio Giuseppe Meazza,Fabio Maresca
+5,Wed,25/09/2019,21:00 (20:00),SPAL,1.1,1â€“3,2,Lecce,"13,292",Stadio Paolo Mazza,Gianluca Rocchi
+5,Wed,25/09/2019,21:00 (20:00),Parma,1.5,1â€“0,0.5,Sassuolo,"14,569",Stadio Ennio Tardini,Livio Marinelli
+5,Thu,26/09/2019,21:00 (20:00),Torino,1.3,2â€“1,2.1,Milan,"23,997",Stadio Olimpico di Torino,Marco Guida
+6,Sat,28/09/2019,15:00 (14:00),Juventus,2,2â€“0,0.3,SPAL,"38,995",Allianz Stadium,Marco Piccinini
+6,Sat,28/09/2019,18:00 (17:00),Sampdoria,1.4,1â€“3,2.4,Inter,"23,694",Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+6,Sat,28/09/2019,20:45 (19:45),Sassuolo,0.6,1â€“4,2.1,Atalanta,"11,604",Stadio Città del Tricolore,Paolo Valeri
+6,Sun,29/09/2019,12:30 (11:30),Napoli,2,2â€“1,1,Brescia,"45,770",Stadio San Paolo,Gianluca Manganiello
+6,Sun,29/09/2019,15:00 (14:00),Udinese,0.6,1â€“0,1.2,Bologna,"21,361",Dacia Arena,Antonio Giua
+6,Sun,29/09/2019,15:00 (14:00),Lecce,0.8,0â€“1,2.5,Roma,"26,044",Stadio Comunale Via Del Mare,Rosario Abisso
+6,Sun,29/09/2019,15:00 (14:00),Lazio,1.4,4â€“0,0.5,Genoa,"26,000",Stadio Olimpico,Luca Pairetto
+6,Sun,29/09/2019,18:00 (17:00),Cagliari,1.3,1â€“1,1.5,Hellas Verona,"15,846",Sardegna Arena,Manuel Volpi
+6,Sun,29/09/2019,20:45 (19:45),Milan,0.8,1â€“3,2.4,Fiorentina,"48,367",Stadio Giuseppe Meazza,Piero Giacomelli
+6,Mon,30/09/2019,20:45 (19:45),Parma,3.4,3â€“2,1.6,Torino,"15,001",Stadio Ennio Tardini,Federico La Penna
+7,Sat,05/10/2019,15:00 (14:00),SPAL,1.5,1â€“0,0.3,Parma,"11,776",Stadio Paolo Mazza,Marco Guida
+7,Sat,05/10/2019,18:00 (17:00),Hellas Verona,0.8,2â€“0,0.7,Sampdoria,"17,787",Stadio Marc'Antonio Bentegodi,Michael Fabbri
+7,Sat,05/10/2019,20:45 (19:45),Genoa,1.8,1â€“2,1.3,Milan,"22,486",Stadio Comunale Luigi Ferraris,Maurizio Mariani
+7,Sun,06/10/2019,12:30 (11:30),Fiorentina,0.9,1â€“0,0.7,Udinese,"37,963",Stadio Artemio Franchi,Alessandro Prontera
+7,Sun,06/10/2019,15:00 (14:00),Bologna,1.5,2â€“2,1.9,Lazio,"22,052",Stadio Renato Dall'Ara,Daniele Orsato
+7,Sun,06/10/2019,15:00 (14:00),Roma,1.4,1â€“1,1.2,Cagliari,"34,385",Stadio Olimpico,Davide Massa
+7,Sun,06/10/2019,15:00 (14:00),Atalanta,3.7,3â€“1,1,Lecce,"20,771",Stadio Atleti Azzurri d'Italia,Marco Di Bello
+7,Sun,06/10/2019,18:00 (17:00),Torino,0.6,0â€“0,1.2,Napoli,"24,343",Stadio Olimpico di Torino,Daniele Doveri
+7,Sun,06/10/2019,20:45 (19:45),Inter,1.6,1â€“2,1.4,Juventus,"75,923",Stadio Giuseppe Meazza,Gianluca Rocchi
+8,Sat,19/10/2019,15:00 (14:00),Lazio,2.6,3â€“3,2.7,Atalanta,"30,000",Stadio Olimpico,Gianluca Rocchi
+8,Sat,19/10/2019,18:00 (17:00),Napoli,1.8,2â€“0,1.3,Hellas Verona,"38,686",Stadio San Paolo,Marco Piccinini
+8,Sat,19/10/2019,20:45 (19:45),Juventus,2.1,2â€“1,0.6,Bologna,"40,461",Allianz Stadium,Massimiliano Irrati
+8,Sun,20/10/2019,12:30 (11:30),Sassuolo,1,3â€“4,3.1,Inter,"17,935",Stadio Città del Tricolore,Piero Giacomelli
+8,Sun,20/10/2019,15:00 (14:00),Udinese,1.8,1â€“0,1.1,Torino,"24,049",Dacia Arena,Rosario Abisso
+8,Sun,20/10/2019,15:00 (14:00),Cagliari,1.3,2â€“0,1.2,SPAL,"15,713",Sardegna Arena,Daniele Chiffi
+8,Sun,20/10/2019,15:00 (14:00),Sampdoria,0.6,0â€“0,0.7,Roma,"20,211",Stadio Comunale Luigi Ferraris,Fabio Maresca
+8,Sun,20/10/2019,18:00 (17:00),Parma,3,5â€“1,1.6,Genoa,"15,299",Stadio Ennio Tardini,Paolo Valeri
+8,Sun,20/10/2019,20:45 (19:45),Milan,1.4,2â€“2,1.4,Lecce,"48,703",Stadio Giuseppe Meazza,Fabrizio Pasqua
+8,Mon,21/10/2019,21:00 (20:00),Brescia,0.2,0â€“0,1.3,Fiorentina,"16,000",Stadio Mario Rigamonti,Giampaolo Calvarese
+9,Fri,25/10/2019,20:45 (19:45),Hellas Verona,1.1,0â€“1,1.4,Sassuolo,"11,453",Stadio Marc'Antonio Bentegodi,Luca Pairetto
+9,Sat,26/10/2019,15:00 (14:00),Lecce,1.1,1â€“1,3.4,Juventus,"26,591",Stadio Comunale Via Del Mare,Paolo Valeri
+9,Sat,26/10/2019,18:00 (17:00),Inter,2.6,2â€“2,0.8,Parma,"67,076",Stadio Giuseppe Meazza,Daniele Chiffi
+9,Sat,26/10/2019,20:45 (19:45),Genoa,1.1,3â€“1,1.2,Brescia,"20,949",Stadio Comunale Luigi Ferraris,Rosario Abisso
+9,Sun,27/10/2019,12:30 (11:30),Bologna,1.5,2â€“1,0.8,Sampdoria,"24,099",Stadio Renato Dall'Ara,Daniele Doveri
+9,Sun,27/10/2019,15:00 (14:00),SPAL,0.6,1â€“1,1,Napoli,"14,726",Stadio Paolo Mazza,Federico La Penna
+9,Sun,27/10/2019,15:00 (14:00),Atalanta,5.6,7â€“1,1,Udinese,"18,677",Stadio Atleti Azzurri d'Italia,Fabio Maresca
+9,Sun,27/10/2019,15:00 (14:00),Torino,0.9,1â€“1,0.5,Cagliari,"21,213",Stadio Olimpico di Torino,Michael Fabbri
+9,Sun,27/10/2019,18:00 (17:00),Roma,1.5,2â€“1,0.6,Milan,"44,333",Stadio Olimpico,Daniele Orsato
+9,Sun,27/10/2019,20:45 (19:45),Fiorentina,0.7,1â€“2,2.3,Lazio,"33,281",Stadio Artemio Franchi,Marco Guida
+10,Tue,29/10/2019,19:00 (18:00),Parma,1.3,0â€“1,0.2,Hellas Verona,"14,638",Stadio Ennio Tardini,Gianluca Manganiello
+10,Tue,29/10/2019,21:00 (20:00),Brescia,2,1â€“2,1,Inter,"16,500",Stadio Mario Rigamonti,Michael Fabbri
+10,Wed,30/10/2019,19:00 (18:00),Napoli,2.7,2â€“2,1.3,Atalanta,"30,061",Stadio San Paolo,Piero Giacomelli
+10,Wed,30/10/2019,21:00 (20:00),Juventus,2.4,2â€“1,0.4,Genoa,"38,732",Allianz Stadium,Antonio Giua
+10,Wed,30/10/2019,21:00 (20:00),Lazio,2.5,4â€“0,0.7,Torino,"25,000",Stadio Olimpico,Daniele Orsato
+10,Wed,30/10/2019,21:00 (20:00),Sassuolo,1.1,1â€“2,1.5,Fiorentina,"11,863",Stadio Città del Tricolore,Maurizio Mariani
+10,Wed,30/10/2019,21:00 (20:00),Udinese,0.8,0â€“4,3.1,Roma,"23,854",Dacia Arena,Massimiliano Irrati
+10,Wed,30/10/2019,21:00 (20:00),Sampdoria,1.9,1â€“1,1.2,Lecce,"18,685",Stadio Comunale Luigi Ferraris,Davide Massa
+10,Wed,30/10/2019,21:00 (20:00),Cagliari,1.4,3â€“2,1,Bologna,"16,076",Sardegna Arena,Juan Sacchi
+10,Thu,31/10/2019,21:00 (20:00),Milan,1.4,1â€“0,0.5,SPAL,"46,475",Stadio Giuseppe Meazza,Marco Piccinini
+11,Sat,02/11/2019,15:00 (14:00),Roma,2.2,2â€“1,1.7,Napoli,"34,502",Stadio Olimpico,Gianluca Rocchi
+11,Sat,02/11/2019,18:00 (17:00),Bologna,0.6,1â€“2,3,Inter,"28,498",Stadio Renato Dall'Ara,Federico La Penna
+11,Sat,02/11/2019,20:45 (19:45),Torino,0.4,0â€“1,2.1,Juventus,"26,664",Stadio Olimpico di Torino,Daniele Doveri
+11,Sun,03/11/2019,12:30 (11:30),Atalanta,0.9,0â€“2,1.1,Cagliari,"18,617",Stadio Atleti Azzurri d'Italia,Rosario Abisso
+11,Sun,03/11/2019,15:00 (14:00),Hellas Verona,1.2,2â€“1,1.4,Brescia,"16,525",Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+11,Sun,03/11/2019,15:00 (14:00),Genoa,1.2,1â€“3,1.5,Udinese,"20,030",Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+11,Sun,03/11/2019,15:00 (14:00),Lecce,0.6,2â€“2,1.8,Sassuolo,"22,087",Stadio Comunale Via Del Mare,Riccardo Ros
+11,Sun,03/11/2019,18:00 (17:00),Fiorentina,1.6,1â€“1,0.6,Parma,"32,479",Stadio Artemio Franchi,Luca Pairetto
+11,Sun,03/11/2019,20:45 (19:45),Milan,0.9,1â€“2,1.2,Lazio,"41,000",Stadio Giuseppe Meazza,Giampaolo Calvarese
+11,Mon,04/11/2019,20:45 (19:45),SPAL,0.7,0â€“1,0.9,Sampdoria,"11,617",Stadio Paolo Mazza,Daniele Chiffi
+12,Fri,08/11/2019,20:45 (19:45),Sassuolo,2.3,3â€“1,0.9,Bologna,"13,184",Stadio Città del Tricolore,Marco Piccinini
+12,Sat,09/11/2019,15:00 (14:00),Brescia,0.7,0â€“4,3.4,Torino,"13,500",Stadio Mario Rigamonti,Marco Guida
+12,Sat,09/11/2019,18:00 (17:00),Inter,2.9,2â€“1,1.4,Hellas Verona,"66,202",Stadio Giuseppe Meazza,Paolo Valeri
+12,Sat,09/11/2019,20:45 (19:45),Napoli,1.2,0â€“0,1,Genoa,"22,947",Stadio San Paolo,Giampaolo Calvarese
+12,Sun,10/11/2019,12:30 (11:30),Cagliari,2.7,5â€“2,1,Fiorentina,"16,316",Sardegna Arena,Federico La Penna
+12,Sun,10/11/2019,15:00 (14:00),Udinese,1.3,0â€“0,2.1,SPAL,"21,621",Dacia Arena,Davide Massa
+12,Sun,10/11/2019,15:00 (14:00),Sampdoria,0.5,0â€“0,0.7,Atalanta,"19,799",Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+12,Sun,10/11/2019,15:00 (14:00),Lazio,3.5,4â€“2,2.4,Lecce,"35,000",Stadio Olimpico,Gianluca Manganiello
+12,Sun,10/11/2019,18:00 (17:00),Parma,1.4,2â€“0,0.6,Roma,"18,532",Stadio Ennio Tardini,Michael Fabbri
+12,Sun,10/11/2019,20:45 (19:45),Juventus,1.2,1â€“0,0.6,Milan,"40,478",Allianz Stadium,Fabio Maresca
+13,Sat,23/11/2019,15:00 (14:00),Atalanta,2.4,1â€“3,1.2,Juventus,"20,899",Stadio Atleti Azzurri d'Italia,Gianluca Rocchi
+13,Sat,23/11/2019,18:00 (17:00),Milan,0.8,1â€“1,0.9,Napoli,"61,658",Stadio Giuseppe Meazza,Daniele Orsato
+13,Sat,23/11/2019,20:45 (19:45),Torino,0.5,0â€“3,1.6,Inter,"26,059",Stadio Olimpico di Torino,Fabio Maresca
+13,Sun,24/11/2019,12:30 (11:30),Bologna,0.7,2â€“2,1.3,Parma,"21,419",Stadio Renato Dall'Ara,Rosario Abisso
+13,Sun,24/11/2019,15:00 (14:00),Hellas Verona,2,1â€“0,1,Fiorentina,"22,581",Stadio Marc'Antonio Bentegodi,Antonio Giua
+13,Sun,24/11/2019,15:00 (14:00),Sassuolo,1.1,1â€“2,1.2,Lazio,"10,000",Stadio Città del Tricolore,Daniele Chiffi
+13,Sun,24/11/2019,15:00 (14:00),Roma,2.5,3â€“0,0.4,Brescia,"33,695",Stadio Olimpico,Marco Di Bello
+13,Sun,24/11/2019,18:00 (17:00),Sampdoria,2.1,2â€“1,0.5,Udinese,"17,031",Stadio Comunale Luigi Ferraris,Luca Pairetto
+13,Mon,25/11/2019,15:00 (14:00),Lecce,2.9,2â€“2,0.9,Cagliari,"21,435",Stadio Comunale Via Del Mare,Maurizio Mariani
+13,Mon,25/11/2019,20:45 (19:45),SPAL,2.2,1â€“1,1.4,Genoa,"12,423",Stadio Paolo Mazza,Piero Giacomelli
+14,Sat,30/11/2019,15:00 (14:00),Brescia,1.1,0â€“3,2.5,Atalanta,"14,000",Stadio Mario Rigamonti,Daniele Doveri
+14,Sat,30/11/2019,18:00 (17:00),Genoa,0.8,0â€“1,0.9,Torino,"20,000",Stadio Comunale Luigi Ferraris,Davide Massa
+14,Sat,30/11/2019,20:45 (19:45),Fiorentina,1.9,0â€“1,1.3,Lecce,"33,912",Stadio Artemio Franchi,Marco Piccinini
+14,Sun,01/12/2019,12:30 (11:30),Juventus,4.5,2â€“2,0.5,Sassuolo,"40,597",Allianz Stadium,Federico La Penna
+14,Sun,01/12/2019,15:00 (14:00),Lazio,2.8,3â€“0,0.8,Udinese,"20,000",Stadio Olimpico,Marco Di Bello
+14,Sun,01/12/2019,15:00 (14:00),Parma,0.3,0â€“1,1.8,Milan,"18,431",Stadio Ennio Tardini,Paolo Valeri
+14,Sun,01/12/2019,15:00 (14:00),Inter,1.6,2â€“1,1.1,SPAL,"61,221",Stadio Giuseppe Meazza,Massimiliano Irrati
+14,Sun,01/12/2019,18:00 (17:00),Napoli,2.2,1â€“2,1.1,Bologna,"26,012",Stadio San Paolo,Fabrizio Pasqua
+14,Sun,01/12/2019,20:45 (19:45),Hellas Verona,1,1â€“3,1.8,Roma,"17,405",Stadio Marc'Antonio Bentegodi,Marco Guida
+14,Mon,02/12/2019,20:45 (19:45),Cagliari,0.7,4â€“3,1.5,Sampdoria,"15,658",Sardegna Arena,Gianluca Aureliano
+15,Fri,06/12/2019,20:45 (19:45),Inter,1.5,0â€“0,0.3,Roma,"67,008",Stadio Giuseppe Meazza,Giampaolo Calvarese
+15,Sat,07/12/2019,15:00 (14:00),Atalanta,2.4,3â€“2,1.1,Hellas Verona,"19,335",Stadio Atleti Azzurri d'Italia,Paolo Valeri
+15,Sat,07/12/2019,18:00 (17:00),Udinese,0.6,1â€“1,1.2,Napoli,"20,405",Dacia Arena,Maurizio Mariani
+15,Sat,07/12/2019,20:45 (19:45),Lazio,2.4,3â€“1,1.8,Juventus,"65,000",Stadio Olimpico,Michael Fabbri
+15,Sun,08/12/2019,12:30 (11:30),Lecce,1,2â€“2,2,Genoa,"21,740",Stadio Comunale Via Del Mare,Gianluca Rocchi
+15,Sun,08/12/2019,15:00 (14:00),SPAL,1.9,0â€“1,1.5,Brescia,"12,442",Stadio Paolo Mazza,Daniele Orsato
+15,Sun,08/12/2019,15:00 (14:00),Sassuolo,1.9,2â€“2,0.5,Cagliari,"12,666",Stadio Città del Tricolore,Luca Pairetto
+15,Sun,08/12/2019,15:00 (14:00),Torino,0.7,2â€“1,1.7,Fiorentina,"19,955",Stadio Olimpico di Torino,Piero Giacomelli
+15,Sun,08/12/2019,18:00 (17:00),Sampdoria,1.8,0â€“1,0.7,Parma,"19,516",Stadio Comunale Luigi Ferraris,Rosario Abisso
+15,Sun,08/12/2019,20:45 (19:45),Bologna,1.5,2â€“3,2.1,Milan,"23,707",Stadio Renato Dall'Ara,Daniele Chiffi
+16,Sat,14/12/2019,15:00 (14:00),Brescia,3.6,3â€“0,0.7,Lecce,"13,131",Stadio Mario Rigamonti,Massimiliano Irrati
+16,Sat,14/12/2019,18:30 (17:30),Napoli,2.7,1â€“2,1.5,Parma,"25,000",Stadio San Paolo,Marco Di Bello
+16,Sat,14/12/2019,20:45 (19:45),Genoa,0.5,0â€“1,0.6,Sampdoria,"30,658",Stadio Comunale Luigi Ferraris,Daniele Doveri
+16,Sun,15/12/2019,12:30 (11:30),Hellas Verona,2,3â€“3,1.3,Torino,"14,612",Stadio Marc'Antonio Bentegodi,Federico La Penna
+16,Sun,15/12/2019,15:00 (14:00),Bologna,1.2,2â€“1,1.9,Atalanta,"21,277",Stadio Renato Dall'Ara,Davide Massa
+16,Sun,15/12/2019,15:00 (14:00),Milan,2.1,0â€“0,0.9,Sassuolo,"58,005",Stadio Giuseppe Meazza,Gianluca Manganiello
+16,Sun,15/12/2019,15:00 (14:00),Juventus,1.8,3â€“1,1.2,Udinese,"39,127",Allianz Stadium,Fabrizio Pasqua
+16,Sun,15/12/2019,18:00 (17:00),Roma,3.1,3â€“1,1.1,SPAL,"34,761",Stadio Olimpico,Antonio Giua
+16,Sun,15/12/2019,20:45 (19:45),Fiorentina,0.7,1â€“1,0.6,Inter,"37,537",Stadio Artemio Franchi,Maurizio Mariani
+16,Mon,16/12/2019,20:45 (19:45),Cagliari,1.5,1â€“2,1.3,Lazio,"16,299",Sardegna Arena,Fabio Maresca
+17,Wed,18/12/2019,18:55 (17:55),Sampdoria,0.7,1â€“2,0.9,Juventus,"23,136",Stadio Comunale Luigi Ferraris,Gianluca Rocchi
+7,Wed,18/12/2019,20:45 (19:45),Brescia,1.8,0â€“2,0.4,Sassuolo,"14,574",Stadio Mario Rigamonti,Marco Di Bello
+17,Fri,20/12/2019,20:45 (19:45),Fiorentina,1.7,1â€“4,1.3,Roma,"3,305",Stadio Artemio Franchi,Daniele Orsato
+17,Sat,21/12/2019,15:00 (14:00),Udinese,1.4,2â€“1,0.9,Cagliari,"19,822",Dacia Arena,Marco Piccinini
+17,Sat,21/12/2019,18:00 (17:00),Inter,2.4,4â€“0,0.6,Genoa,"57,490",Stadio Giuseppe Meazza,Luca Pairetto
+17,Sat,21/12/2019,20:45 (19:45),Torino,1,1â€“2,1.1,SPAL,"18,553",Stadio Olimpico di Torino,Michael Fabbri
+17,Sun,22/12/2019,12:30 (11:30),Atalanta,2.8,5â€“0,0.3,Milan,"20,940",Stadio Atleti Azzurri d'Italia,Federico La Penna
+17,Sun,22/12/2019,15:00 (14:00),Lecce,1,2â€“3,3.4,Bologna,"24,178",Stadio Comunale Via Del Mare,Rosario Abisso
+17,Sun,22/12/2019,15:00 (14:00),Parma,1.4,1â€“1,2.3,Brescia,"16,686",Stadio Ennio Tardini,Francesco Fourneau
+17,Sun,22/12/2019,20:45 (19:45),Sassuolo,1.3,1â€“2,1.4,Napoli,"12,570",Stadio Città del Tricolore,Daniele Chiffi
+18,Sun,05/01/2020,12:30 (11:30),Brescia,0.4,1â€“2,1.9,Lazio,"14,370",Stadio Mario Rigamonti,Gianluca Manganiello
+18,Sun,05/01/2020,15:00 (14:00),SPAL,1.4,0â€“2,2.1,Hellas Verona,"14,078",Stadio Paolo Mazza,Marco Guida
+18,Sun,05/01/2020,18:00 (17:00),Genoa,3.2,2â€“1,0.7,Sassuolo,"21,033",Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+18,Sun,05/01/2020,20:45 (19:45),Roma,2.1,0â€“2,1.9,Torino,"38,954",Stadio Olimpico,Marco Di Bello
+18,Mon,06/01/2020,12:30 (11:30),Bologna,0.9,1â€“1,0.6,Fiorentina,"22,653",Stadio Renato Dall'Ara,Paolo Valeri
+18,Mon,06/01/2020,15:00 (14:00),Milan,1.3,0â€“0,1.2,Sampdoria,"58,572",Stadio Giuseppe Meazza,Davide Massa
+18,Mon,06/01/2020,15:00 (14:00),Juventus,2.7,4â€“0,0.8,Cagliari,"40,598",Allianz Stadium,Piero Giacomelli
+18,Mon,06/01/2020,15:00 (14:00),Atalanta,1.8,5â€“0,0.1,Parma,"19,213",Stadio Atleti Azzurri d'Italia,Fabrizio Pasqua
+18,Mon,06/01/2020,18:00 (17:00),Lecce,0.6,0â€“1,0.6,Udinese,"21,321",Stadio Comunale Via Del Mare,Antonio Giua
+18,Mon,06/01/2020,20:45 (19:45),Napoli,1.9,1â€“3,1.3,Inter,"31,191",Stadio San Paolo,Daniele Doveri
+19,Sat,11/01/2020,15:00 (14:00),Cagliari,0.7,0â€“2,1.2,Milan,"16,412",Sardegna Arena,Rosario Abisso
+19,Sat,11/01/2020,18:00 (17:00),Lazio,0.9,1â€“0,0.5,Napoli,"40,000",Stadio Olimpico,Daniele Orsato
+19,Sat,11/01/2020,20:45 (19:45),Inter,0.5,1â€“1,2.3,Atalanta,"70,042",Stadio Giuseppe Meazza,Gianluca Rocchi
+19,Sun,12/01/2020,12:30 (11:30),Udinese,1.7,3â€“0,1,Sassuolo,"21,731",Dacia Arena,Manuel Volpi
+19,Sun,12/01/2020,15:00 (14:00),Fiorentina,1.6,1â€“0,1.1,SPAL,"33,970",Stadio Artemio Franchi,Daniele Doveri
+19,Sun,12/01/2020,15:00 (14:00),Torino,0.5,1â€“0,1.7,Bologna,"15,000",Stadio Olimpico di Torino,Marco Piccinini
+19,Sun,12/01/2020,15:00 (14:00),Sampdoria,3.3,5â€“1,0.9,Brescia,"20,117",Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+19,Sun,12/01/2020,18:00 (17:00),Hellas Verona,2.6,2â€“1,0.8,Genoa,"14,849",Stadio Marc'Antonio Bentegodi,Maurizio Mariani
+19,Sun,12/01/2020,20:45 (19:45),Roma,2.5,1â€“2,1.4,Juventus,"60,513",Stadio Olimpico,Marco Guida
+19,Mon,13/01/2020,20:45 (19:45),Parma,1.6,2â€“0,1.1,Lecce,"15,258",Stadio Ennio Tardini,Michael Fabbri
+20,Sat,18/01/2020,15:00 (14:00),Lazio,4.1,5â€“1,0.4,Sampdoria,"30,000",Stadio Olimpico,Daniele Chiffi
+20,Sat,18/01/2020,18:00 (17:00),Sassuolo,1.2,2â€“1,0.8,Torino,"10,500",Stadio Città del Tricolore,Davide Massa
+20,Sat,18/01/2020,20:45 (19:45),Napoli,0.8,0â€“2,1,Fiorentina,"22,219",Stadio San Paolo,Fabrizio Pasqua
+20,Sun,19/01/2020,12:30 (11:30),Milan,2.5,3â€“2,1.4,Udinese,"56,107",Stadio Giuseppe Meazza,Luca Pairetto
+20,Sun,19/01/2020,15:00 (14:00),Brescia,0.7,2â€“2,3.1,Cagliari,"12,133",Stadio Mario Rigamonti,Antonio Giua
+20,Sun,19/01/2020,15:00 (14:00),Lecce,1.2,1â€“1,2,Inter,"25,966",Stadio Comunale Via Del Mare,Piero Giacomelli
+20,Sun,19/01/2020,15:00 (14:00),Bologna,0.9,1â€“1,1.6,Hellas Verona,"20,697",Stadio Renato Dall'Ara,Giovanni Ayroldi
+20,Sun,19/01/2020,18:00 (17:00),Genoa,1.2,1â€“3,2.3,Roma,"20,951",Stadio Comunale Luigi Ferraris,Fabio Maresca
+20,Sun,19/01/2020,20:45 (19:45),Juventus,1.2,2â€“1,0.5,Parma,"37,790",Allianz Stadium,Marco Di Bello
+20,Mon,20/01/2020,20:45 (19:45),Atalanta,1.8,1â€“2,1.3,SPAL,"16,636",Stadio Atleti Azzurri d'Italia,Federico La Penna
+21,Fri,24/01/2020,20:45 (19:45),Brescia,1.4,0â€“1,2,Milan,"19,451",Stadio Mario Rigamonti,Paolo Valeri
+21,Sat,25/01/2020,15:00 (14:00),SPAL,1.5,1â€“3,2,Bologna,"12,622",Stadio Paolo Mazza,Michael Fabbri
+21,Sat,25/01/2020,18:00 (17:00),Fiorentina,0.9,0â€“0,1.6,Genoa,"32,903",Stadio Artemio Franchi,Daniele Orsato
+21,Sat,25/01/2020,20:45 (19:45),Torino,0.6,0â€“7,5.2,Atalanta,"18,824",Stadio Olimpico di Torino,Marco Guida
+21,Sun,26/01/2020,12:30 (11:30),Inter,2.1,1â€“1,0.6,Cagliari,"70,465",Stadio Giuseppe Meazza,Gianluca Manganiello
+21,Sun,26/01/2020,15:00 (14:00),Parma,0.9,2â€“0,1.7,Udinese,"14,250",Stadio Ennio Tardini,Simone Sozza
+21,Sun,26/01/2020,15:00 (14:00),Hellas Verona,2.1,3â€“0,0.5,Lecce,"15,425",Stadio Marc'Antonio Bentegodi,Rosario Abisso
+21,Sun,26/01/2020,15:00 (14:00),Sampdoria,1.4,0â€“0,0.5,Sassuolo,"19,260",Stadio Comunale Luigi Ferraris,Marco Piccinini
+21,Sun,26/01/2020,18:00 (17:00),Roma,1.6,1â€“1,0.6,Lazio,"59,902",Stadio Olimpico,Giampaolo Calvarese
+21,Sun,26/01/2020,20:45 (19:45),Napoli,1.2,2â€“1,0.5,Juventus,"39,111",Stadio San Paolo,Maurizio Mariani
+22,Sat,01/02/2020,15:00 (14:00),Bologna,1.9,2â€“1,0.9,Brescia,"21,665",Stadio Renato Dall'Ara,Daniele Doveri
+22,Sat,01/02/2020,18:00 (17:00),Cagliari,2.8,2â€“2,1.5,Parma,"16,051",Sardegna Arena,Massimiliano Irrati
+22,Sat,01/02/2020,20:45 (19:45),Sassuolo,3.2,4â€“2,2.9,Roma,"13,411",Stadio Città del Tricolore,Luca Pairetto
+22,Sun,02/02/2020,12:30 (11:30),Juventus,2.9,3â€“0,0.6,Fiorentina,"40,171",Allianz Stadium,Fabrizio Pasqua
+22,Sun,02/02/2020,15:00 (14:00),Lazio,2.6,5â€“1,1.3,SPAL,"4,000",Stadio Olimpico,Antonio Giua
+22,Sun,02/02/2020,15:00 (14:00),Milan,1.3,1â€“1,0.8,Hellas Verona,"55,355",Stadio Giuseppe Meazza,Daniele Chiffi
+22,Sun,02/02/2020,15:00 (14:00),Atalanta,2.3,2â€“2,1.3,Genoa,"18,755",Stadio Atleti Azzurri d'Italia,Davide Massa
+22,Sun,02/02/2020,18:00 (17:00),Lecce,2.5,4â€“0,1,Torino,"21,947",Stadio Comunale Via Del Mare,Gianluca Rocchi
+22,Sun,02/02/2020,20:45 (19:45),Udinese,0.9,0â€“2,2.7,Inter,"23,215",Dacia Arena,Marco Di Bello
+22,Mon,03/02/2020,20:45 (19:45),Sampdoria,1.9,2â€“4,1.3,Napoli,"20,017",Stadio Comunale Luigi Ferraris,Federico La Penna
+17,Wed,05/02/2020,20:45 (19:45),Lazio,1.3,0â€“0,1,Hellas Verona,"40,000",Stadio Olimpico,Rosario Abisso
+23,Fri,07/02/2020,20:45 (19:45),Roma,1.1,2â€“3,1.8,Bologna,"31,808",Stadio Olimpico,Marco Guida
+23,Sat,08/02/2020,15:00 (14:00),Fiorentina,0.5,1â€“2,1.7,Atalanta,"35,034",Stadio Artemio Franchi,Maurizio Mariani
+23,Sat,08/02/2020,18:00 (17:00),Torino,0.5,1â€“3,2,Sampdoria,"20,664",Stadio Olimpico di Torino,Paolo Valeri
+23,Sat,08/02/2020,20:45 (19:45),Hellas Verona,1.8,2â€“1,0.7,Juventus,"28,654",Stadio Marc'Antonio Bentegodi,Davide Massa
+23,Sun,09/02/2020,12:30 (11:30),SPAL,1.4,1â€“2,2.2,Sassuolo,"12,988",Stadio Paolo Mazza,Piero Giacomelli
+23,Sun,09/02/2020,15:00 (14:00),Genoa,1.2,1â€“0,1.1,Cagliari,"21,301",Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+23,Sun,09/02/2020,15:00 (14:00),Napoli,3.4,2â€“3,1.7,Lecce,"40,825",Stadio San Paolo,Antonio Giua
+23,Sun,09/02/2020,15:00 (14:00),Brescia,0.4,1â€“1,2.2,Udinese,"13,586",Stadio Mario Rigamonti,Marco Piccinini
+23,Sun,09/02/2020,18:00 (17:00),Parma,0.6,0â€“1,1.6,Lazio,"17,859",Stadio Ennio Tardini,Marco Di Bello
+23,Sun,09/02/2020,20:45 (19:45),Inter,1.4,4â€“2,2,Milan,"75,817",Stadio Giuseppe Meazza,Fabio Maresca
+24,Sat,15/02/2020,15:00 (14:00),Lecce,1.7,2â€“1,1.3,SPAL,"24,129",Stadio Comunale Via Del Mare,Marco Guida
+24,Sat,15/02/2020,18:00 (17:00),Bologna,0.5,0â€“3,1.5,Genoa,"21,513",Stadio Renato Dall'Ara,Davide Massa
+24,Sat,15/02/2020,20:45 (19:45),Atalanta,1.3,2â€“1,0.5,Roma,"19,830",Stadio Atleti Azzurri d'Italia,Daniele Orsato
+24,Sun,16/02/2020,12:30 (11:30),Udinese,0.9,0â€“0,1.1,Hellas Verona,"22,308",Dacia Arena,Eugenio Abbattista
+24,Sun,16/02/2020,15:00 (14:00),Juventus,2.5,2â€“0,0.3,Brescia,"40,841",Allianz Stadium,Daniele Chiffi
+24,Sun,16/02/2020,15:00 (14:00),Sassuolo,1.2,0â€“1,0.8,Parma,"12,099",Stadio Città del Tricolore,Maurizio Mariani
+24,Sun,16/02/2020,15:00 (14:00),Sampdoria,2.1,1â€“5,3.2,Fiorentina,"20,284",Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+24,Sun,16/02/2020,18:00 (17:00),Cagliari,0.3,0â€“1,0.9,Napoli,"13,535",Sardegna Arena,Daniele Doveri
+24,Sun,16/02/2020,20:45 (19:45),Lazio,1.6,2â€“1,0.8,Inter,"62,500",Stadio Olimpico,Gianluca Rocchi
+24,Mon,17/02/2020,20:45 (19:45),Milan,0.9,1â€“0,0.4,Torino,"46,114",Stadio Giuseppe Meazza,Michael Fabbri
+25,Fri,21/02/2020,20:45 (19:45),Brescia,1,1â€“2,1.2,Napoli,"14,703",Stadio Mario Rigamonti,Daniele Orsato
+25,Sat,22/02/2020,15:00 (14:00),Bologna,1.3,1â€“1,0.5,Udinese,"21,523",Stadio Renato Dall'Ara,Fabrizio Pasqua
+25,Sat,22/02/2020,18:00 (17:00),SPAL,1,1â€“2,2.2,Juventus,"15,262",Stadio Paolo Mazza,Federico La Penna
+25,Sat,22/02/2020,20:45 (19:45),Fiorentina,1.9,1â€“1,0.7,Milan,"39,769",Stadio Artemio Franchi,Giampaolo Calvarese
+25,Sun,23/02/2020,12:30 (11:30),Genoa,1.6,2â€“3,2,Lazio,"25,000",Stadio Comunale Luigi Ferraris,Fabio Maresca
+25,Sun,23/02/2020,18:00 (17:00),Roma,3.8,4â€“0,0.8,Lecce,"34,293",Stadio Olimpico,Piero Giacomelli
+26,Sat,29/02/2020,15:00 (14:00),Lazio,1.4,2â€“0,1.4,Bologna,"40,000",Stadio Olimpico,Rosario Abisso
+26,Sat,29/02/2020,20:45 (19:45),Napoli,1.9,2â€“1,0.5,Torino,"23,586",Stadio San Paolo,Maurizio Mariani
+26,Sun,01/03/2020,15:00 (14:00),Lecce,0.4,2â€“7,4.6,Atalanta,"21,344",Stadio Comunale Via Del Mare,Davide Massa
+26,Sun,01/03/2020,18:00 (17:00),Cagliari,1.2,3â€“4,3.2,Roma,"14,848",Sardegna Arena,Marco Di Bello

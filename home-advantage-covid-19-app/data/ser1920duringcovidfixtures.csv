@@ -1,0 +1,131 @@
+﻿Week,Day,Date,Time,Home,xG,Score,xG,Away,Attendance,Venue,Referee
+26,Sun,08/03/2020,13:30 (12:30),Parma,1.3,0â€“1,0.9,SPAL,,Stadio Ennio Tardini,Luca Pairetto
+26,Sun,08/03/2020,15:00 (14:00),Milan,1.8,1â€“2,1.9,Genoa,,Stadio Giuseppe Meazza,Daniele Doveri
+26,Sun,08/03/2020,15:00 (14:00),Sampdoria,1.4,2â€“1,1.4,Hellas Verona,,Stadio Comunale Luigi Ferraris,Paolo Valeri
+26,Sun,08/03/2020,18:00 (17:00),Udinese,0.6,0â€“0,0.3,Fiorentina,,Dacia Arena,Michael Fabbri
+26,Sun,08/03/2020,20:45 (19:45),Juventus,1.3,2â€“0,0.4,Inter,,Allianz Stadium,Marco Guida
+26,Mon,09/03/2020,18:30 (17:30),Sassuolo,2.1,3â€“0,0.6,Brescia,,Stadio CittÃ  del Tricolore,Gianluca Manganiello
+25,Sat,20/06/2020,19:30 (18:30),Torino,2,1â€“1,0.3,Parma,,Stadio Olimpico di Torino,Massimiliano Irrati
+25,Sat,20/06/2020,21:45 (20:45),Hellas Verona,0.5,2â€“1,1.1,Cagliari,,Stadio Marc'Antonio Bentegodi,Gianluca Manganiello
+25,Sun,21/06/2020,19:30 (18:30),Atalanta,2.4,4â€“1,2.7,Sassuolo,,Stadio Atleti Azzurri d'Italia,Daniele Chiffi
+25,Sun,21/06/2020,21:45 (20:45),Inter,2.7,2â€“1,0.6,Sampdoria,,Stadio Giuseppe Meazza,Maurizio Mariani
+27,Mon,22/06/2020,19:30 (18:30),Fiorentina,2.5,1â€“1,1.3,Brescia,,Stadio Artemio Franchi,Federico La Penna
+27,Mon,22/06/2020,19:30 (18:30),Lecce,1.3,1â€“4,2.3,Milan,,Stadio Comunale Via Del Mare,Paolo Valeri
+27,Mon,22/06/2020,21:45 (20:45),Bologna,0.8,0â€“2,1.7,Juventus,,Stadio Renato Dall'Ara,Gianluca Rocchi
+27,Tue,23/06/2020,19:30 (18:30),Hellas Verona,1.6,0â€“2,1.6,Napoli,,Stadio Marc'Antonio Bentegodi,Fabrizio Pasqua
+27,Tue,23/06/2020,19:30 (18:30),SPAL,1.1,0â€“1,1.7,Cagliari,,Stadio Paolo Mazza,Rosario Abisso
+27,Tue,23/06/2020,21:45 (20:45),Genoa,2.2,1â€“4,2,Parma,,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+27,Tue,23/06/2020,21:45 (20:45),Torino,0.4,1â€“0,1.2,Udinese,,Stadio Olimpico di Torino,Fabio Maresca
+27,Wed,24/06/2020,19:30 (18:30),Inter,3.6,3â€“3,2.3,Sassuolo,,Stadio Giuseppe Meazza,Davide Massa
+27,Wed,24/06/2020,21:45 (20:45),Atalanta,2.2,3â€“2,0.3,Lazio,,Stadio Atleti Azzurri d'Italia,Daniele Orsato
+27,Wed,24/06/2020,21:45 (20:45),Roma,2.2,2â€“1,0.9,Sampdoria,,Stadio Olimpico,Giampaolo Calvarese
+28,Fri,26/06/2020,21:45 (20:45),Juventus,3.4,4â€“0,0.3,Lecce,,Allianz Stadium,Marco Piccinini
+28,Sat,27/06/2020,17:15 (16:15),Brescia,1.5,2â€“2,2.8,Genoa,,Stadio Mario Rigamonti,Massimiliano Irrati
+28,Sat,27/06/2020,19:30 (18:30),Cagliari,1.7,4â€“2,1.5,Torino,,Sardegna Arena,Maurizio Mariani
+28,Sat,27/06/2020,21:45 (20:45),Lazio,1.7,2â€“1,0.5,Fiorentina,,Stadio Olimpico,Michael Fabbri
+28,Sun,28/06/2020,17:15 (16:15),Milan,2.5,2â€“0,0.6,Roma,,Stadio Giuseppe Meazza,Piero Giacomelli
+28,Sun,28/06/2020,19:30 (18:30),Sampdoria,1.4,1â€“2,2.2,Bologna,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+28,Sun,28/06/2020,19:30 (18:30),Sassuolo,1.6,3â€“3,1.4,Hellas Verona,,Stadio CittÃ  del Tricolore,Antonio Giua
+28,Sun,28/06/2020,19:30 (18:30),Udinese,1.7,2â€“3,0.8,Atalanta,,Dacia Arena,Marco Di Bello
+28,Sun,28/06/2020,19:30 (18:30),Napoli,1.9,3â€“1,0.3,SPAL,,Stadio San Paolo,Luca Pairetto
+28,Sun,28/06/2020,21:45 (20:45),Parma,1.2,1â€“2,2.4,Inter,,Stadio Ennio Tardini,Fabio Maresca
+29,Tue,30/06/2020,19:30 (18:30),Torino,0.9,1â€“2,1.6,Lazio,,Stadio Olimpico di Torino,Davide Massa
+29,Tue,30/06/2020,21:45 (20:45),Genoa,0.2,1â€“3,0.7,Juventus,,Stadio Comunale Luigi Ferraris,Giampaolo Calvarese
+29,Wed,01/07/2020,19:30 (18:30),Inter,3.9,6â€“0,0.5,Brescia,,Stadio Giuseppe Meazza,Gianluca Manganiello
+29,Wed,01/07/2020,19:30 (18:30),Bologna,1.5,1â€“1,1.1,Cagliari,,Stadio Renato Dall'Ara,Juan Sacchi
+29,Wed,01/07/2020,21:45 (20:45),SPAL,0.4,2â€“2,2.1,Milan,,Stadio Paolo Mazza,Maurizio Mariani
+29,Wed,01/07/2020,21:45 (20:45),Fiorentina,1.6,1â€“3,1.7,Sassuolo,,Stadio Artemio Franchi,Daniele Chiffi
+29,Wed,01/07/2020,21:45 (20:45),Lecce,1.8,1â€“2,1.8,Sampdoria,,Stadio Comunale Via Del Mare,Gianluca Rocchi
+29,Wed,01/07/2020,21:45 (20:45),Hellas Verona,1.6,3â€“2,1.6,Parma,,Stadio Marc'Antonio Bentegodi,Paolo Valeri
+29,Thu,02/07/2020,19:30 (18:30),Atalanta,1.3,2â€“0,1.1,Napoli,,Stadio Atleti Azzurri d'Italia,Daniele Doveri
+29,Thu,02/07/2020,21:45 (20:45),Roma,0.8,0â€“2,1.5,Udinese,,Stadio Olimpico,Marco Guida
+30,Sat,04/07/2020,17:15 (16:15),Juventus,1.5,4â€“1,1.7,Torino,,Allianz Stadium,Fabio Maresca
+30,Sat,04/07/2020,19:30 (18:30),Sassuolo,1.8,4â€“2,1.9,Lecce,,Stadio CittÃ  del Tricolore,Davide Massa
+30,Sat,04/07/2020,21:45 (20:45),Lazio,0.4,0â€“3,2.3,Milan,,Stadio Olimpico,Giampaolo Calvarese
+30,Sun,05/07/2020,17:15 (16:15),Inter,3.1,1â€“2,1.1,Bologna,,Stadio Giuseppe Meazza,Luca Pairetto
+30,Sun,05/07/2020,19:30 (18:30),Brescia,1.1,2â€“0,0.9,Hellas Verona,,Stadio Mario Rigamonti,Marco Piccinini
+30,Sun,05/07/2020,19:30 (18:30),Parma,1.1,1â€“2,2.3,Fiorentina,,Stadio Ennio Tardini,Rosario Abisso
+30,Sun,05/07/2020,19:30 (18:30),Sampdoria,1.2,3â€“0,1,SPAL,,Stadio Comunale Luigi Ferraris,Piero Giacomelli
+30,Sun,05/07/2020,19:30 (18:30),Cagliari,0.4,0â€“1,3.3,Atalanta,,Sardegna Arena,Federico La Penna
+30,Sun,05/07/2020,19:30 (18:30),Udinese,0.7,2â€“2,1.3,Genoa,,Dacia Arena,Daniele Orsato
+30,Sun,05/07/2020,21:45 (20:45),Napoli,2.2,2â€“1,0.7,Roma,,Stadio San Paolo,Gianluca Rocchi
+31,Tue,07/07/2020,19:30 (18:30),Lecce,2.4,2â€“1,2.4,Lazio,,Stadio Comunale Via Del Mare,Fabio Maresca
+31,Tue,07/07/2020,21:45 (20:45),Milan,1.9,4â€“2,1.2,Juventus,,Stadio Giuseppe Meazza,Marco Guida
+31,Wed,08/07/2020,19:30 (18:30),Genoa,0.5,1â€“2,1.6,Napoli,,Stadio Comunale Luigi Ferraris,Maurizio Mariani
+31,Wed,08/07/2020,19:30 (18:30),Fiorentina,0.8,0â€“0,1.1,Cagliari,,Stadio Artemio Franchi,Gianluca Manganiello
+31,Wed,08/07/2020,21:45 (20:45),Torino,2.4,3â€“1,1.6,Brescia,,Stadio Olimpico di Torino,Daniele Doveri
+31,Wed,08/07/2020,21:45 (20:45),Atalanta,1.1,2â€“0,0.8,Sampdoria,,Stadio Atleti Azzurri d'Italia,Antonio Giua
+31,Wed,08/07/2020,21:45 (20:45),Roma,2.6,2â€“1,1.1,Parma,,Stadio Olimpico,Michael Fabbri
+31,Wed,08/07/2020,21:45 (20:45),Bologna,1.2,1â€“2,0.8,Sassuolo,,Stadio Renato Dall'Ara,Francesco Fourneau
+31,Thu,09/07/2020,19:30 (18:30),SPAL,0.4,0â€“3,1.1,Udinese,,Stadio Paolo Mazza,Daniele Chiffi
+31,Thu,09/07/2020,21:45 (20:45),Hellas Verona,0.7,2â€“2,1,Inter,,Stadio Marc'Antonio Bentegodi,Massimiliano Irrati
+32,Sat,11/07/2020,17:15 (16:15),Lazio,1,1â€“2,2.3,Sassuolo,,Stadio Olimpico,Marco Di Bello
+32,Sat,11/07/2020,19:30 (18:30),Brescia,1,0â€“3,3.2,Roma,,Stadio Mario Rigamonti,Giampaolo Calvarese
+32,Sat,11/07/2020,21:45 (20:45),Juventus,2.1,2â€“2,0.9,Atalanta,,Allianz Stadium,Piero Giacomelli
+32,Sun,12/07/2020,17:15 (16:15),Genoa,2.2,2â€“0,0,SPAL,,Stadio Comunale Luigi Ferraris,Marco Guida
+32,Sun,12/07/2020,19:30 (18:30),Parma,1.5,2â€“2,0.8,Bologna,,Stadio Ennio Tardini,Maurizio Mariani
+32,Sun,12/07/2020,19:30 (18:30),Fiorentina,1,1â€“1,0.9,Hellas Verona,,Stadio Artemio Franchi,Daniele Chiffi
+32,Sun,12/07/2020,19:30 (18:30),Udinese,0.6,1â€“3,1,Sampdoria,,Dacia Arena,Paolo Valeri
+32,Sun,12/07/2020,19:30 (18:30),Cagliari,2,0â€“0,1.9,Lecce,,Sardegna Arena,Daniele Orsato
+32,Sun,12/07/2020,21:45 (20:45),Napoli,2,2â€“2,1.1,Milan,,Stadio San Paolo,Federico La Penna
+32,Mon,13/07/2020,21:45 (20:45),Inter,2.2,3â€“1,1.7,Torino,,Stadio Giuseppe Meazza,Davide Massa
+33,Tue,14/07/2020,21:45 (20:45),Atalanta,2.2,6â€“2,1,Brescia,,Stadio Atleti Azzurri d'Italia,Gianluca Manganiello
+33,Wed,15/07/2020,19:30 (18:30),Sampdoria,1.1,3â€“0,0.7,Cagliari,,Stadio Comunale Luigi Ferraris,Luca Pairetto
+33,Wed,15/07/2020,19:30 (18:30),Bologna,0.9,1â€“1,0.8,Napoli,,Stadio Renato Dall'Ara,Marco Piccinini
+33,Wed,15/07/2020,19:30 (18:30),Milan,2.3,3â€“1,1,Parma,,Stadio Giuseppe Meazza,Massimiliano Irrati
+33,Wed,15/07/2020,21:45 (20:45),Udinese,1.4,0â€“0,0.9,Lazio,,Dacia Arena,Rosario Abisso
+33,Wed,15/07/2020,21:45 (20:45),Sassuolo,2.8,3â€“3,2.2,Juventus,,Stadio CittÃ  del Tricolore,Paolo Valeri
+33,Wed,15/07/2020,21:45 (20:45),Roma,2.8,2â€“1,0.4,Hellas Verona,,Stadio Olimpico,Fabio Maresca
+33,Wed,15/07/2020,21:45 (20:45),Lecce,0.7,1â€“3,2.7,Fiorentina,,Stadio Comunale Via Del Mare,Marco Guida
+33,Thu,16/07/2020,19:30 (18:30),Torino,1.1,3â€“0,0.9,Genoa,,Stadio Olimpico di Torino,Gianluca Rocchi
+33,Thu,16/07/2020,21:45 (20:45),SPAL,0.7,0â€“4,2.4,Inter,,Stadio Paolo Mazza,Antonio Giua
+34,Sat,18/07/2020,17:15 (16:15),Hellas Verona,1.2,1â€“1,2.1,Atalanta,,Stadio Marc'Antonio Bentegodi,Rosario Abisso
+34,Sat,18/07/2020,19:30 (18:30),Cagliari,0.2,1â€“1,0.6,Sassuolo,,Sardegna Arena,Giovanni Ayroldi
+34,Sat,18/07/2020,21:45 (20:45),Milan,3,5â€“1,0.5,Bologna,,Stadio Giuseppe Meazza,Davide Massa
+34,Sun,19/07/2020,17:15 (16:15),Parma,1.2,2â€“3,1.5,Sampdoria,,Stadio Ennio Tardini,Giampaolo Calvarese
+34,Sun,19/07/2020,19:30 (18:30),Genoa,0.4,2â€“1,2,Lecce,,Stadio Comunale Luigi Ferraris,Daniele Doveri
+34,Sun,19/07/2020,19:30 (18:30),Napoli,1.6,2â€“1,0.7,Udinese,,Stadio San Paolo,Daniele Chiffi
+34,Sun,19/07/2020,19:30 (18:30),Fiorentina,1.5,2â€“0,0.4,Torino,,Stadio Artemio Franchi,Maurizio Mariani
+34,Sun,19/07/2020,19:30 (18:30),Brescia,1.2,2â€“1,1.7,SPAL,,Stadio Mario Rigamonti,Eugenio Abbattista
+34,Sun,19/07/2020,21:45 (20:45),Roma,1.4,2â€“2,1.4,Inter,,Stadio Olimpico,Marco Di Bello
+34,Mon,20/07/2020,21:45 (20:45),Juventus,3,2â€“1,1.3,Lazio,,Allianz Stadium,Daniele Orsato
+35,Tue,21/07/2020,19:30 (18:30),Atalanta,2,1â€“0,0.4,Bologna,,Stadio Atleti Azzurri d'Italia,Federico La Penna
+35,Tue,21/07/2020,21:45 (20:45),Sassuolo,1.2,1â€“2,2.1,Milan,,Stadio CittÃ  del Tricolore,Luca Pairetto
+35,Wed,22/07/2020,19:30 (18:30),Parma,2,2â€“1,1.7,Napoli,,Stadio Ennio Tardini,Antonio Giua
+35,Wed,22/07/2020,21:45 (20:45),Sampdoria,1.3,1â€“2,1,Genoa,,Stadio Comunale Luigi Ferraris,Marco Guida
+35,Wed,22/07/2020,21:45 (20:45),Torino,0.9,1â€“1,1.4,Hellas Verona,,Stadio Olimpico di Torino,Paolo Valeri
+35,Wed,22/07/2020,21:45 (20:45),Inter,2.3,0â€“0,0.9,Fiorentina,,Stadio Giuseppe Meazza,Piero Giacomelli
+35,Wed,22/07/2020,21:45 (20:45),Lecce,2.7,3â€“1,0.8,Brescia,,Stadio Comunale Via Del Mare,Fabio Maresca
+35,Wed,22/07/2020,21:45 (20:45),SPAL,0.7,1â€“6,1.8,Roma,,Stadio Paolo Mazza,Gianluca Manganiello
+35,Thu,23/07/2020,19:30 (18:30),Udinese,1,2â€“1,0.7,Juventus,,Dacia Arena,Massimiliano Irrati
+35,Thu,23/07/2020,21:45 (20:45),Lazio,1.5,2â€“1,0.5,Cagliari,,Stadio Olimpico,Marco Piccinini
+36,Fri,24/07/2020,21:45 (20:45),Milan,0.5,1â€“1,1.8,Atalanta,,Stadio Giuseppe Meazza,Daniele Doveri
+36,Sat,25/07/2020,17:15 (16:15),Brescia,1.6,1â€“2,1.3,Parma,,Stadio Mario Rigamonti,Lorenzo Maggioni
+36,Sat,25/07/2020,19:30 (18:30),Genoa,0.4,0â€“3,1.8,Inter,,Stadio Comunale Luigi Ferraris,Davide Massa
+36,Sat,25/07/2020,21:45 (20:45),Napoli,2.1,2â€“0,0.3,Sassuolo,,Stadio San Paolo,Gianluca Aureliano
+36,Sun,26/07/2020,17:15 (16:15),Bologna,2.6,3â€“2,2.5,Lecce,,Stadio Renato Dall'Ara,Giampaolo Calvarese
+36,Sun,26/07/2020,19:30 (18:30),Roma,2.8,2â€“1,0.7,Fiorentina,,Stadio Olimpico,Daniele Chiffi
+36,Sun,26/07/2020,19:30 (18:30),SPAL,0.3,1â€“1,1.8,Torino,,Stadio Paolo Mazza,Rosario Abisso
+36,Sun,26/07/2020,19:30 (18:30),Hellas Verona,1.8,1â€“5,2.4,Lazio,,Stadio Marc'Antonio Bentegodi,Manuel Volpi
+36,Sun,26/07/2020,19:30 (18:30),Cagliari,1.3,0â€“1,0.9,Udinese,,Sardegna Arena,Fabrizio Pasqua
+36,Sun,26/07/2020,21:45 (20:45),Juventus,2.6,2â€“0,1.2,Sampdoria,,Allianz Stadium,Francesco Fourneau
+37,Tue,28/07/2020,19:30 (18:30),Parma,1.7,1â€“2,1.3,Atalanta,,Stadio Ennio Tardini,Luca Pairetto
+37,Tue,28/07/2020,21:45 (20:45),Inter,0.9,2â€“0,1,Napoli,,Stadio Giuseppe Meazza,Paolo Valeri
+37,Wed,29/07/2020,19:30 (18:30),Hellas Verona,2.9,3â€“0,0.8,SPAL,,Stadio Marc'Antonio Bentegodi,Simone Sozza
+37,Wed,29/07/2020,19:30 (18:30),Udinese,1,1â€“2,1.9,Lecce,,Dacia Arena,Daniele Orsato
+37,Wed,29/07/2020,19:30 (18:30),Lazio,4.4,2â€“0,0.7,Brescia,,Stadio Olimpico,Luca Massimi
+37,Wed,29/07/2020,19:30 (18:30),Sassuolo,2.9,5â€“0,1,Genoa,,Stadio CittÃ  del Tricolore,Fabio Maresca
+37,Wed,29/07/2020,19:30 (18:30),Sampdoria,3.2,1â€“4,2.5,Milan,,Stadio Comunale Luigi Ferraris,Fabrizio Pasqua
+37,Wed,29/07/2020,21:45 (20:45),Fiorentina,2.2,4â€“0,1.6,Bologna,,Stadio Artemio Franchi,Marco Di Bello
+37,Wed,29/07/2020,21:45 (20:45),Torino,0.9,2â€“3,2.6,Roma,,Stadio Olimpico di Torino,Marco Piccinini
+37,Wed,29/07/2020,21:45 (20:45),Cagliari,0.9,2â€“0,1.7,Juventus,,Sardegna Arena,Davide Ghersini
+38,Sat,01/08/2020,18:00 (17:00),Brescia,1.7,1â€“1,2.3,Sampdoria,,Stadio Mario Rigamonti,Michael Fabbri
+38,Sat,01/08/2020,20:45 (19:45),Juventus,0.9,1â€“3,1.9,Roma,,Allianz Stadium,Gianluca Rocchi
+38,Sat,01/08/2020,20:45 (19:45),Napoli,2.1,3â€“1,0.6,Lazio,,Stadio San Paolo,Giampaolo Calvarese
+38,Sat,01/08/2020,20:45 (19:45),Atalanta,1.1,0â€“2,1.2,Inter,,Stadio Atleti Azzurri d'Italia,Piero Giacomelli
+38,Sat,01/08/2020,20:45 (19:45),Milan,3,3â€“0,0.5,Cagliari,,Stadio Giuseppe Meazza,Marco Serra
+38,Sun,02/08/2020,18:00 (17:00),SPAL,0.6,1â€“3,2.9,Fiorentina,,Stadio Paolo Mazza,Alessandro Prontera
+38,Sun,02/08/2020,20:45 (19:45),Genoa,1.1,3â€“0,1.1,Hellas Verona,,Stadio Comunale Luigi Ferraris,Massimiliano Irrati
+38,Sun,02/08/2020,20:45 (19:45),Sassuolo,1.5,0â€“1,2.1,Udinese,,Stadio CittÃ  del Tricolore,Daniel Amabile
+38,Sun,02/08/2020,20:45 (19:45),Bologna,1.1,1â€“1,1.3,Torino,,Stadio Renato Dall'Ara,Antonio Di Martino
+38,Sun,02/08/2020,20:45 (19:45),Lecce,2.3,3â€“4,3.2,Parma,,Stadio Comunale Via Del Mare,Maurizio Mariani
