@@ -160,7 +160,7 @@ sersubset <- subset(big5data, big5data$league == "serie a")
 # A navigation bar will enable users to select different tabs for information on the project.
 ui <- navbarPage("Home Advantage and Covid-19: Football's Natural Experiment",
                  
-                 # Each tabPanel will become its own page accessible via the navbar, as well as being given 
+# Each tabPanel will become its own page accessible via the navbar, as well as being given an icon.
                  tabPanel("Home",
                           icon = icon("home"),
                           
