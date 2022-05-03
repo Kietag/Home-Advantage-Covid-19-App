@@ -1,1 +1,9 @@
+Data Folder:
+Contains 10 .csv files, two files for each league with 1 before Covid-19 postponement and 1 after Covid-19 postponement
+Also contains a codebook.xlsx, which documents variable names, descriptions and other notes
 
+Figs Folder:
+Contains .png files for each graph. Also the location to which the app.r saves rendered graphs.
+
+Notes Folder:
+Contains notes on fixtures and when football was played with/without a crowd.
